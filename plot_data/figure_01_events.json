@@ -1,0 +1,56 @@
+{
+  "figure": 1,
+  "title": "Selected historical and diplomatic milestones",
+  "correction_date": "2026-10-27",
+  "version_label_retained": "v1.0",
+  "scope": "Cover Table 1's milestones and the relevant additional Chapter 1 turning points in two stacked sections. Event dates do not imply continuous territorial control or present legal rights.",
+  "sections": [
+    {
+      "label": "A  Ancient exchange and colonial change",
+      "groups": [
+        {"events": [{"date": "First centuries CE", "label": "Aksum and Adulis link inland and Red Sea trade", "references": [1, 2, 33]}]},
+        {"events": [{"date": "Fourth century CE", "label": "Christianity established in Aksum under Ezana", "references": [2, 33]}]},
+        {"events": [
+          {"date": "1882", "label": "Italian government acquires Assab", "references": [75]},
+          {"date": "1885", "label": "Italy occupies Massawa", "references": [32]},
+          {"date": "1890", "label": "Italian colony of Eritrea established", "references": [32, 75]}
+        ]},
+        {"events": [{"date": "1896", "label": "Ethiopian victory at Adwa", "references": [32]}]}
+      ]
+    },
+    {
+      "label": "B  Federation, sovereignty and commercial access",
+      "groups": [
+        {"events": [
+          {"date": "1950", "label": "UN resolution sets federation framework", "references": [3]},
+          {"date": "1952", "label": "Eritrea-Ethiopia federation takes effect", "references": [3, 4]}
+        ]},
+        {"events": [
+          {"date": "1961", "label": "Eritrean armed struggle begins", "references": [75]},
+          {"date": "1962", "label": "Federation ends; Eritrea made a province", "references": [4, 75]}
+        ]},
+        {"events": [
+          {"date": "1991", "label": "Ethiopian transition; referendum route endorsed", "references": [4]},
+          {"date": "1993", "label": "Eritrean independence; Ethiopian port use continues", "references": [4, 73], "font_px": 37}
+        ]},
+        {"events": [{"date": "1998", "label": "Port-cargo movements to Ethiopia end in war", "references": [73]}]},
+        {"events": [{"date": "2000", "label": "Algiers Agreement", "references": [5]}]},
+        {"events": [{"date": "2018", "label": "Ethiopia-Eritrea peace declaration", "references": [76]}]},
+        {"events": [{"date": "2024", "label": "Ankara Declaration: Ethiopia-Somalia access talks", "references": [9], "font_px": 37}]}
+      ]
+    }
+  ],
+  "source_locators": {
+    "1": "Periplus, sections 4-6",
+    "2": "UNESCO Aksum site account",
+    "3": "UN General Assembly Resolution 390 A (V), 2 December 1950",
+    "4": "UN report A/48/283, paragraphs 3-9 and 48-56",
+    "5": "Algiers Agreement, 12 December 2000",
+    "9": "Ankara Declaration, 11 December 2024",
+    "32": "Boundary Commission delimitation decision, paragraph 2.7",
+    "33": "Metropolitan Museum account of Aksum, Adulis and Ezana",
+    "73": "Claims Commission Ports Award, paragraphs 1 and 19-21",
+    "75": "Negash, Eritrea and Ethiopia: The Federal Experience, pp. 13-14 and 148",
+    "76": "Joint Declaration of Peace and Friendship, points 1-5"
+  }
+}

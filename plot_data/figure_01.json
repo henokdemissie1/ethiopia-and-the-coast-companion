@@ -1,53 +1,135 @@
 {
   "figure": 1,
-  "status": "Dated historical selection; not an event-frequency dataset",
+  "status": "Selected historical events; expanded approved correction dated 27 October 2026",
   "units": {
-    "year": "calendar year"
+    "date": "calendar year or stated ancient period"
   },
   "sources": [
+    1,
+    2,
     3,
     4,
     5,
     9,
     32,
+    33,
     73,
+    75,
     76
   ],
   "assumptions": {
-    "event_spacing": "equal, not elapsed-time proportional"
+    "not_a_proportional_time_scale": true,
+    "no_continuous_territorial_control_or_present_rights_inferred": true
   },
   "rows": [
     {
-      "year": 1950,
-      "milestone": "UN federation resolution"
+      "section": "A  Ancient exchange and colonial change",
+      "date": "First centuries CE",
+      "milestone": "Aksum and Adulis link inland and Red Sea trade",
+      "book_references": "1;2;33"
     },
     {
-      "year": 1952,
-      "milestone": "Federation takes effect"
+      "section": "A  Ancient exchange and colonial change",
+      "date": "Fourth century CE",
+      "milestone": "Christianity established in Aksum under Ezana",
+      "book_references": "2;33"
     },
     {
-      "year": 1962,
-      "milestone": "Federation ends; Eritrea incorporated into Ethiopia"
+      "section": "A  Ancient exchange and colonial change",
+      "date": "1882",
+      "milestone": "Italian government acquires Assab",
+      "book_references": "75"
     },
     {
-      "year": 1993,
-      "milestone": "Eritrean independence; Ethiopian port use continues"
+      "section": "A  Ancient exchange and colonial change",
+      "date": "1885",
+      "milestone": "Italy occupies Massawa",
+      "book_references": "32"
     },
     {
-      "year": 1998,
-      "milestone": "Assab cargo movements end during interstate conflict"
+      "section": "A  Ancient exchange and colonial change",
+      "date": "1890",
+      "milestone": "Italian colony of Eritrea established",
+      "book_references": "32;75"
     },
     {
-      "year": 2000,
-      "milestone": "Algiers Agreement"
+      "section": "A  Ancient exchange and colonial change",
+      "date": "1896",
+      "milestone": "Ethiopian victory at Adwa",
+      "book_references": "32"
     },
     {
-      "year": 2018,
-      "milestone": "Ethiopia-Eritrea peace and friendship declaration"
+      "section": "B  Federation, sovereignty and commercial access",
+      "date": "1950",
+      "milestone": "UN resolution sets federation framework",
+      "book_references": "3"
     },
     {
-      "year": 2024,
-      "milestone": "Ethiopia-Somalia Ankara Declaration"
+      "section": "B  Federation, sovereignty and commercial access",
+      "date": "1952",
+      "milestone": "Eritrea-Ethiopia federation takes effect",
+      "book_references": "3;4"
+    },
+    {
+      "section": "B  Federation, sovereignty and commercial access",
+      "date": "1961",
+      "milestone": "Eritrean armed struggle begins",
+      "book_references": "75"
+    },
+    {
+      "section": "B  Federation, sovereignty and commercial access",
+      "date": "1962",
+      "milestone": "Federation ends; Eritrea made a province",
+      "book_references": "4;75"
+    },
+    {
+      "section": "B  Federation, sovereignty and commercial access",
+      "date": "1991",
+      "milestone": "Ethiopian transition; referendum route endorsed",
+      "book_references": "4"
+    },
+    {
+      "section": "B  Federation, sovereignty and commercial access",
+      "date": "1993",
+      "milestone": "Eritrean independence; Ethiopian port use continues",
+      "book_references": "4;73"
+    },
+    {
+      "section": "B  Federation, sovereignty and commercial access",
+      "date": "1998",
+      "milestone": "Port-cargo movements to Ethiopia end in war",
+      "book_references": "73"
+    },
+    {
+      "section": "B  Federation, sovereignty and commercial access",
+      "date": "2000",
+      "milestone": "Algiers Agreement",
+      "book_references": "5"
+    },
+    {
+      "section": "B  Federation, sovereignty and commercial access",
+      "date": "2018",
+      "milestone": "Ethiopia-Eritrea peace declaration",
+      "book_references": "76"
+    },
+    {
+      "section": "B  Federation, sovereignty and commercial access",
+      "date": "2024",
+      "milestone": "Ankara Declaration: Ethiopia-Somalia access talks",
+      "book_references": "9"
     }
-  ]
+  ],
+  "render": {
+    "pixels": [
+      1320,
+      1740
+    ],
+    "dpi": 300,
+    "intended_inches": [
+      4.4,
+      5.8
+    ],
+    "minimum_main_event_font_px": 37,
+    "main_event_font_points_at_intended_size": 8.88
+  }
 }

@@ -1,9 +1,17 @@
-year,milestone
-1950,UN federation resolution
-1952,Federation takes effect
-1962,Federation ends; Eritrea incorporated into Ethiopia
-1993,Eritrean independence; Ethiopian port use continues
-1998,Assab cargo movements end during interstate conflict
-2000,Algiers Agreement
-2018,Ethiopia-Eritrea peace and friendship declaration
-2024,Ethiopia-Somalia Ankara Declaration
+section,date,milestone,book_references
+A  Ancient exchange and colonial change,First centuries CE,Aksum and Adulis link inland and Red Sea trade,1;2;33
+A  Ancient exchange and colonial change,Fourth century CE,Christianity established in Aksum under Ezana,2;33
+A  Ancient exchange and colonial change,1882,Italian government acquires Assab,75
+A  Ancient exchange and colonial change,1885,Italy occupies Massawa,32
+A  Ancient exchange and colonial change,1890,Italian colony of Eritrea established,32;75
+A  Ancient exchange and colonial change,1896,Ethiopian victory at Adwa,32
+"B  Federation, sovereignty and commercial access",1950,UN resolution sets federation framework,3
+"B  Federation, sovereignty and commercial access",1952,Eritrea-Ethiopia federation takes effect,3;4
+"B  Federation, sovereignty and commercial access",1961,Eritrean armed struggle begins,75
+"B  Federation, sovereignty and commercial access",1962,Federation ends; Eritrea made a province,4;75
+"B  Federation, sovereignty and commercial access",1991,Ethiopian transition; referendum route endorsed,4
+"B  Federation, sovereignty and commercial access",1993,Eritrean independence; Ethiopian port use continues,4;73
+"B  Federation, sovereignty and commercial access",1998,Port-cargo movements to Ethiopia end in war,73
+"B  Federation, sovereignty and commercial access",2000,Algiers Agreement,5
+"B  Federation, sovereignty and commercial access",2018,Ethiopia-Eritrea peace declaration,76
+"B  Federation, sovereignty and commercial access",2024,Ankara Declaration: Ethiopia-Somalia access talks,9
