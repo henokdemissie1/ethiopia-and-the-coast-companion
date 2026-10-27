@@ -1,0 +1,2024 @@
+{
+  "baseline_date": "2026-10-27",
+  "method": "Reproduce the numerical companion baseline dated 27 October 2026.\n\nInputs are frozen public WDI responses, explicit teaching assumptions, and the\nincluded machine-readable tables. No manuscript, network, or API key is needed.\nThe comparison count inventories calculations, not a quality certification.\n",
+  "table_source": "Included machine-readable table baseline (tables.json); no full manuscript is required.",
+  "raw_inputs": [
+    "data\\archived\\population.json",
+    "data\\archived\\imports.json",
+    "data\\archived\\exports.json",
+    "data\\archived\\NY.GDP.MKTP.KD.json",
+    "data\\archived\\NY.GDP.MKTP.CD.json"
+  ],
+  "numeric_comparison_count": 178,
+  "passed": 178,
+  "failed": [],
+  "checks": [
+    {
+      "name": "Table 2 1993 population",
+      "actual": 53.708891,
+      "printed": 53.71,
+      "tolerance": 0.005,
+      "difference": -0.0011089999999995825,
+      "pass_": true,
+      "unit": "million people",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "Table 2 1993 imports",
+      "actual": 0.787,
+      "printed": 0.787,
+      "tolerance": 0.0005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ billion current",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "Table 2 1993 exports",
+      "actual": 0.199,
+      "printed": 0.199,
+      "tolerance": 0.0005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ billion current",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "Table 2 2000 population",
+      "actual": 67.411494,
+      "printed": 67.41,
+      "tolerance": 0.005,
+      "difference": 0.0014940000000081,
+      "pass_": true,
+      "unit": "million people",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "Table 2 2000 imports",
+      "actual": 1.26,
+      "printed": 1.26,
+      "tolerance": 0.0005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ billion current",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "Table 2 2000 exports",
+      "actual": 0.486,
+      "printed": 0.486,
+      "tolerance": 0.0005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ billion current",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "Table 2 2010 population",
+      "actual": 90.538514,
+      "printed": 90.54,
+      "tolerance": 0.005,
+      "difference": -0.0014859999999998763,
+      "pass_": true,
+      "unit": "million people",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "Table 2 2010 imports",
+      "actual": 8.602,
+      "printed": 8.602,
+      "tolerance": 0.0005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ billion current",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "Table 2 2010 exports",
+      "actual": 2.33,
+      "printed": 2.33,
+      "tolerance": 0.0005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ billion current",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "Table 2 2020 population",
+      "actual": 118.917671,
+      "printed": 118.92,
+      "tolerance": 0.005,
+      "difference": -0.002329000000003134,
+      "pass_": true,
+      "unit": "million people",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "Table 2 2020 imports",
+      "actual": 13.115,
+      "printed": 13.115,
+      "tolerance": 0.0005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ billion current",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "Table 2 2020 exports",
+      "actual": 3.258,
+      "printed": 3.258,
+      "tolerance": 0.0005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ billion current",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "Table 2 2023 population",
+      "actual": 128.691692,
+      "printed": 128.69,
+      "tolerance": 0.005,
+      "difference": 0.001691999999991367,
+      "pass_": true,
+      "unit": "million people",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "Table 2 2023 imports",
+      "actual": 17.251,
+      "printed": 17.251,
+      "tolerance": 0.0005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ billion current",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "Table 2 2023 exports",
+      "actual": 3.468,
+      "printed": 3.468,
+      "tolerance": 0.0005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ billion current",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "Table 2 2024 population",
+      "actual": 132.059767,
+      "printed": 132.06,
+      "tolerance": 0.005,
+      "difference": -0.00023300000000858745,
+      "pass_": true,
+      "unit": "million people",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "Table 2 2024 imports",
+      "actual": 18.605,
+      "printed": 18.605,
+      "tolerance": 0.0005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ billion current",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "Table 2 2024 exports",
+      "actual": 5.472,
+      "printed": 5.472,
+      "tolerance": 0.0005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ billion current",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "Table 2 2025 population",
+      "actual": 135.472051,
+      "printed": 135.47,
+      "tolerance": 0.005,
+      "difference": 0.002050999999994474,
+      "pass_": true,
+      "unit": "million people",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "Table 2 2025 imports",
+      "actual": 23.012,
+      "printed": 23.012,
+      "tolerance": 0.0005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ billion current",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "Table 2 2025 exports",
+      "actual": 7.585,
+      "printed": 7.585,
+      "tolerance": 0.0005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ billion current",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "population ratio",
+      "actual": 2.522339383250345,
+      "printed": 2.52234,
+      "tolerance": 5e-06,
+      "difference": -6.167496549025486e-07,
+      "pass_": true,
+      "unit": "ratio",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "population change",
+      "actual": 152.2339383250345,
+      "printed": 152.23,
+      "tolerance": 0.005,
+      "difference": 0.003938325034511081,
+      "pass_": true,
+      "unit": "percent",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "population CAGR",
+      "actual": 2.933409908555862,
+      "printed": 2.93,
+      "tolerance": 0.005,
+      "difference": 0.0034099085558616515,
+      "pass_": true,
+      "unit": "percent/year",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "2025 export/import ratio",
+      "actual": 32.961063792803756,
+      "printed": 32.96,
+      "tolerance": 0.005,
+      "difference": 0.001063792803755348,
+      "pass_": true,
+      "unit": "percent",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "2025 merchandise balance",
+      "actual": -15.427,
+      "printed": -15.427,
+      "tolerance": 0.0005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ billion current",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "2024 export/import ratio",
+      "actual": 29.41144853533996,
+      "printed": 29.41,
+      "tolerance": 0.005,
+      "difference": 0.0014485353399606993,
+      "pass_": true,
+      "unit": "percent",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "HHI [0.95, 0.05]",
+      "actual": 0.9049999999999999,
+      "printed": 0.905,
+      "tolerance": 0.0005,
+      "difference": -1.1102230246251565e-16,
+      "pass_": true,
+      "unit": "unitless",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "shares sum [0.95, 0.05]",
+      "actual": 1.0,
+      "printed": 1,
+      "tolerance": 1e-12,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "unitless",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "HHI [0.7, 0.2, 0.1]",
+      "actual": 0.5399999999999999,
+      "printed": 0.54,
+      "tolerance": 0.0005,
+      "difference": -1.1102230246251565e-16,
+      "pass_": true,
+      "unit": "unitless",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "shares sum [0.7, 0.2, 0.1]",
+      "actual": 1.0,
+      "printed": 1,
+      "tolerance": 1e-12,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "unitless",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "HHI [0.6, 0.25, 0.15]",
+      "actual": 0.445,
+      "printed": 0.445,
+      "tolerance": 0.0005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "unitless",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "shares sum [0.6, 0.25, 0.15]",
+      "actual": 1.0,
+      "printed": 1,
+      "tolerance": 1e-12,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "unitless",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "reserve route cover",
+      "actual": 15.0,
+      "printed": 15,
+      "tolerance": 1e-10,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "percent of normal demand",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "nominal-value example growth",
+      "actual": 50.0,
+      "printed": 50,
+      "tolerance": 1e-10,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "percent",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "alternative route disadvantage",
+      "actual": 20,
+      "printed": 20,
+      "tolerance": 1e-10,
+      "difference": 0,
+      "pass_": true,
+      "unit": "US$/shipment",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "crane moves",
+      "actual": 105120.0,
+      "printed": 105120,
+      "tolerance": 1e-10,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "moves/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "loaded trucks/day",
+      "actual": 714.2857142857143,
+      "printed": 714,
+      "tolerance": 0.5,
+      "difference": 0.28571428571433444,
+      "pass_": true,
+      "unit": "loaded trips/day",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 5 route 1 component 1",
+      "actual": 1800,
+      "printed": 1800.0,
+      "tolerance": 0.005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$/container",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 5 route 1 component 2",
+      "actual": 400,
+      "printed": 400.0,
+      "tolerance": 0.005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$/container",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 5 route 1 component 3",
+      "actual": 1000,
+      "printed": 1000.0,
+      "tolerance": 0.005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$/container",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 5 route 1 component 4",
+      "actual": 120,
+      "printed": 120.0,
+      "tolerance": 0.005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$/container",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 5 route 1 component 5",
+      "actual": 197.26027397260273,
+      "printed": 197.26,
+      "tolerance": 0.005,
+      "difference": 0.00027397260274142354,
+      "pass_": true,
+      "unit": "US$/container",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 5 route 1 component 6",
+      "actual": 60,
+      "printed": 60.0,
+      "tolerance": 0.005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$/container",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 5 route 1 total",
+      "actual": 3577.2602739726026,
+      "printed": 3577.26,
+      "tolerance": 0.005,
+      "difference": 0.0002739726023719413,
+      "pass_": true,
+      "unit": "US$/container",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 5 route 2 component 1",
+      "actual": 1850,
+      "printed": 1850.0,
+      "tolerance": 0.005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$/container",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 5 route 2 component 2",
+      "actual": 450,
+      "printed": 450.0,
+      "tolerance": 0.005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$/container",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 5 route 2 component 3",
+      "actual": 800,
+      "printed": 800.0,
+      "tolerance": 0.005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$/container",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 5 route 2 component 4",
+      "actual": 140,
+      "printed": 140.0,
+      "tolerance": 0.005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$/container",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 5 route 2 component 5",
+      "actual": 138.08219178082192,
+      "printed": 138.08,
+      "tolerance": 0.005,
+      "difference": 0.0021917808219029666,
+      "pass_": true,
+      "unit": "US$/container",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 5 route 2 component 6",
+      "actual": 80,
+      "printed": 80.0,
+      "tolerance": 0.005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$/container",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 5 route 2 total",
+      "actual": 3458.082191780822,
+      "printed": 3458.08,
+      "tolerance": 0.005,
+      "difference": 0.002191780822158762,
+      "pass_": true,
+      "unit": "US$/container",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "container saving",
+      "actual": 119.1780821917805,
+      "printed": 119.18,
+      "tolerance": 0.005,
+      "difference": -0.0019178082195026036,
+      "pass_": true,
+      "unit": "US$/container",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "container saving percent",
+      "actual": 3.331546297005429,
+      "printed": 3.3,
+      "tolerance": 0.05,
+      "difference": 0.031546297005429214,
+      "pass_": true,
+      "unit": "percent",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "inventory reduction 1",
+      "actual": 9.863013698630137,
+      "printed": 9.86,
+      "tolerance": 0.005,
+      "difference": 0.0030136986301378954,
+      "pass_": true,
+      "unit": "US$/container",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "inventory reduction 6",
+      "actual": 59.178082191780824,
+      "printed": 59.18,
+      "tolerance": 0.005,
+      "difference": -0.001917808219175754,
+      "pass_": true,
+      "unit": "US$/container",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "inventory reduction 10",
+      "actual": 98.63013698630137,
+      "printed": 98.63,
+      "tolerance": 0.005,
+      "difference": 0.00013698630137071177,
+      "pass_": true,
+      "unit": "US$/container",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "other route components higher",
+      "actual": 140,
+      "printed": 140,
+      "tolerance": 1e-10,
+      "difference": 0,
+      "pass_": true,
+      "unit": "US$/container",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "reliability example mean",
+      "actual": 10.0,
+      "printed": 10,
+      "tolerance": 1e-10,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "days",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "capital recovery factor",
+      "actual": 0.0936787790519682,
+      "printed": 0.0936788,
+      "tolerance": 5e-08,
+      "difference": -2.094803180918703e-08,
+      "pass_": true,
+      "unit": "1/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "annual capital cost",
+      "actual": 140.51816857795228,
+      "printed": 140.52,
+      "tolerance": 0.005,
+      "difference": -0.0018314220477293475,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "annual equivalent cost",
+      "actual": 170.51816857795228,
+      "printed": 170.52,
+      "tolerance": 0.005,
+      "difference": -0.0018314220477293475,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "project traffic threshold at 10",
+      "actual": 17.051816857795227,
+      "printed": 17.05,
+      "tolerance": 0.005,
+      "difference": 0.0018168577952266673,
+      "pass_": true,
+      "unit": "million tonnes/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "project traffic threshold at 20",
+      "actual": 8.525908428897614,
+      "printed": 8.53,
+      "tolerance": 0.005,
+      "difference": -0.0040915711023856716,
+      "pass_": true,
+      "unit": "million tonnes/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "project traffic threshold at 40",
+      "actual": 4.262954214448807,
+      "printed": 4.26,
+      "tolerance": 0.005,
+      "difference": 0.0029542144488070576,
+      "pass_": true,
+      "unit": "million tonnes/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 6 traffic 2.0 saving 10",
+      "actual": -150.51816857795228,
+      "printed": -150.52,
+      "tolerance": 0.005,
+      "difference": 0.0018314220477293475,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 6 traffic 2.0 saving 20",
+      "actual": -130.51816857795228,
+      "printed": -130.52,
+      "tolerance": 0.005,
+      "difference": 0.0018314220477293475,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 6 traffic 2.0 saving 40",
+      "actual": -90.51816857795228,
+      "printed": -90.52,
+      "tolerance": 0.005,
+      "difference": 0.0018314220477151366,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 6 traffic 5.0 saving 10",
+      "actual": -120.51816857795228,
+      "printed": -120.52,
+      "tolerance": 0.005,
+      "difference": 0.0018314220477151366,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 6 traffic 5.0 saving 20",
+      "actual": -70.51816857795228,
+      "printed": -70.52,
+      "tolerance": 0.005,
+      "difference": 0.0018314220477151366,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 6 traffic 5.0 saving 40",
+      "actual": 29.48183142204772,
+      "printed": 29.48,
+      "tolerance": 0.005,
+      "difference": 0.0018314220477186893,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 6 traffic 10.0 saving 10",
+      "actual": -70.51816857795228,
+      "printed": -70.52,
+      "tolerance": 0.005,
+      "difference": 0.0018314220477151366,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 6 traffic 10.0 saving 20",
+      "actual": 29.48183142204772,
+      "printed": 29.48,
+      "tolerance": 0.005,
+      "difference": 0.0018314220477186893,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 6 traffic 10.0 saving 40",
+      "actual": 229.48183142204772,
+      "printed": 229.48,
+      "tolerance": 0.005,
+      "difference": 0.0018314220477293475,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 7 0.04 annual cost",
+      "actual": 126.01794417968195,
+      "printed": 126.02,
+      "tolerance": 0.005,
+      "difference": -0.002055820318048518,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 7 0.04 traffic",
+      "actual": 6.3008972089840976,
+      "printed": 6.3,
+      "tolerance": 0.005,
+      "difference": 0.0008972089840977304,
+      "pass_": true,
+      "unit": "million tonnes/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 7 0.08 annual cost",
+      "actual": 170.51816857795228,
+      "printed": 170.52,
+      "tolerance": 0.005,
+      "difference": -0.0018314220477293475,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 7 0.08 traffic",
+      "actual": 8.525908428897614,
+      "printed": 8.53,
+      "tolerance": 0.005,
+      "difference": -0.0040915711023856716,
+      "pass_": true,
+      "unit": "million tonnes/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 7 0.12 annual cost",
+      "actual": 221.24995471426178,
+      "printed": 221.25,
+      "tolerance": 0.005,
+      "difference": -4.5285738224265515e-05,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 7 0.12 traffic",
+      "actual": 11.06249773571309,
+      "printed": 11.06,
+      "tolerance": 0.005,
+      "difference": 0.0024977357130886446,
+      "pass_": true,
+      "unit": "million tonnes/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Mombasa throughput growth",
+      "actual": 13.924402445803242,
+      "printed": 13.9,
+      "tolerance": 0.05,
+      "difference": 0.02440244580324169,
+      "pass_": true,
+      "unit": "percent",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "retail price pass-through",
+      "actual": 2.0000000000000004,
+      "printed": 2,
+      "tolerance": 1e-10,
+      "difference": 4.440892098500626e-16,
+      "pass_": true,
+      "unit": "percent",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 10 column 1 row 6",
+      "actual": 1190.0,
+      "printed": 1190.0,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million constant 2026",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 10 column 1 row 7",
+      "actual": 297.5,
+      "printed": 297.5,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million constant 2026",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 10 column 1 row 8",
+      "actual": 1487.5,
+      "printed": 1487.5,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million constant 2026",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 10 column 2 row 6",
+      "actual": 1660.0,
+      "printed": 1660.0,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million constant 2026",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 10 column 2 row 7",
+      "actual": 415.0,
+      "printed": 415.0,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million constant 2026",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 10 column 2 row 8",
+      "actual": 2075.0,
+      "printed": 2075.0,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million constant 2026",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 10 column 3 row 6",
+      "actual": 2500.0,
+      "printed": 2500.0,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million constant 2026",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 10 column 3 row 7",
+      "actual": 625.0,
+      "printed": 625.0,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million constant 2026",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 10 column 3 row 8",
+      "actual": 3125.0,
+      "printed": 3125.0,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million constant 2026",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "hub annual equivalent",
+      "actual": 239.383466532834,
+      "printed": 239.4,
+      "tolerance": 0.05,
+      "difference": -0.016533467165999127,
+      "pass_": true,
+      "unit": "US$ million/year constant 2026",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "hub traffic threshold",
+      "actual": 11.9691733266417,
+      "printed": 11.97,
+      "tolerance": 0.005,
+      "difference": -0.0008266733583006669,
+      "pass_": true,
+      "unit": "million tonnes/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "hub uncovered cost",
+      "actual": 39.38346653283401,
+      "printed": 39.4,
+      "tolerance": 0.05,
+      "difference": -0.016533467165992022,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "construction eligible assets",
+      "actual": 1580,
+      "printed": 1580,
+      "tolerance": 1e-10,
+      "difference": 0,
+      "pass_": true,
+      "unit": "US$ million",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "construction person-years",
+      "actual": 31600.0,
+      "printed": 31600,
+      "tolerance": 0.5,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "person-years",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "average concurrent construction workers",
+      "actual": 5266.666666666667,
+      "printed": 5267,
+      "tolerance": 0.5,
+      "difference": -0.33333333333303017,
+      "pass_": true,
+      "unit": "workers",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "peak construction workers",
+      "actual": 7900.0,
+      "printed": 7900,
+      "tolerance": 0.5,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "workers",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 12 Small cluster jobs",
+      "actual": 8750.0,
+      "printed": 8750.0,
+      "tolerance": 0.5,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "positions",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 12 Small cluster residents",
+      "actual": 16333.333333333334,
+      "printed": 16333.0,
+      "tolerance": 0.5,
+      "difference": 0.33333333333393966,
+      "pass_": true,
+      "unit": "additional people",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 12 Medium cluster jobs",
+      "actual": 30000,
+      "printed": 30000.0,
+      "tolerance": 0.5,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "positions",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 12 Medium cluster residents",
+      "actual": 56000.0,
+      "printed": 56000.0,
+      "tolerance": 0.5,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "additional people",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 12 Large cluster jobs",
+      "actual": 67500.0,
+      "printed": 67500.0,
+      "tolerance": 0.5,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "positions",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 12 Large cluster residents",
+      "actual": 126000.0,
+      "printed": 126000.0,
+      "tolerance": 0.5,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "additional people",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "medium residents share 0.4",
+      "actual": 32000.0,
+      "printed": 32000,
+      "tolerance": 0.5,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "additional people",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "medium residents share 0.9",
+      "actual": 72000.0,
+      "printed": 72000,
+      "tolerance": 0.5,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "additional people",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "medium households",
+      "actual": 14000.0,
+      "printed": 14000,
+      "tolerance": 0.5,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "households",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "domestic water delivered",
+      "actual": 5600.0,
+      "printed": 5600,
+      "tolerance": 0.5,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "m3/day",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "water produced",
+      "actual": 7000.0,
+      "printed": 7000,
+      "tolerance": 0.5,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "m3/day",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "desalination electricity",
+      "actual": 28.0,
+      "printed": 28,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "MWh/day",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "settlement area low",
+      "actual": 5.6,
+      "printed": 5.6,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "km2",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "settlement area high",
+      "actual": 11.2,
+      "printed": 11.2,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "km2",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 13 DJI",
+      "actual": 0.6170694121749338,
+      "printed": 0.62,
+      "tolerance": 0.005,
+      "difference": -0.0029305878250661666,
+      "pass_": true,
+      "unit": "Pearson r",
+      "basis": "Archived raw real GDP; independent growth/correlation"
+    },
+    {
+      "name": "Table 13 KEN",
+      "actual": -0.020386194157494843,
+      "printed": -0.02,
+      "tolerance": 0.005,
+      "difference": -0.000386194157494843,
+      "pass_": true,
+      "unit": "Pearson r",
+      "basis": "Archived raw real GDP; independent growth/correlation"
+    },
+    {
+      "name": "Table 13 UGA",
+      "actual": 0.1663192097349447,
+      "printed": 0.17,
+      "tolerance": 0.005,
+      "difference": -0.0036807902650553004,
+      "pass_": true,
+      "unit": "Pearson r",
+      "basis": "Archived raw real GDP; independent growth/correlation"
+    },
+    {
+      "name": "Table 13 TZA",
+      "actual": 0.7844151137575441,
+      "printed": 0.78,
+      "tolerance": 0.005,
+      "difference": 0.004415113757544109,
+      "pass_": true,
+      "unit": "Pearson r",
+      "basis": "Archived raw real GDP; independent growth/correlation"
+    },
+    {
+      "name": "Table 13 RWA",
+      "actual": 0.010521384929606508,
+      "printed": 0.01,
+      "tolerance": 0.005,
+      "difference": 0.0005213849296065078,
+      "pass_": true,
+      "unit": "Pearson r",
+      "basis": "Archived raw real GDP; independent growth/correlation"
+    },
+    {
+      "name": "Table 13 aggregate",
+      "actual": 0.2643398366006681,
+      "printed": 0.26,
+      "tolerance": 0.005,
+      "difference": 0.004339836600668112,
+      "pass_": true,
+      "unit": "Pearson r",
+      "basis": "Archived raw real GDP; independent growth/correlation"
+    },
+    {
+      "name": "Table 13 aggregate_excluding2020",
+      "actual": -0.14554591960262614,
+      "printed": -0.15,
+      "tolerance": 0.005,
+      "difference": 0.004454080397373855,
+      "pass_": true,
+      "unit": "Pearson r",
+      "basis": "Archived raw real GDP; independent growth/correlation"
+    },
+    {
+      "name": "Table 14 scenario 1 row 1",
+      "actual": 30.0,
+      "printed": 30.0,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million/year constant 2026",
+      "basis": "Author hypothetical accounting assumptions; no empirical identification"
+    },
+    {
+      "name": "Table 14 scenario 1 row 2",
+      "actual": 75.0,
+      "printed": 75.0,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million/year constant 2026",
+      "basis": "Author hypothetical accounting assumptions; no empirical identification"
+    },
+    {
+      "name": "Table 14 scenario 1 row 3",
+      "actual": 105.0,
+      "printed": 105.0,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million/year constant 2026",
+      "basis": "Author hypothetical accounting assumptions; no empirical identification"
+    },
+    {
+      "name": "Table 14 scenario 1 row 4",
+      "actual": 4.0425,
+      "printed": 4.0,
+      "tolerance": 0.05,
+      "difference": 0.042500000000000426,
+      "pass_": true,
+      "unit": "US$ million/year constant 2026",
+      "basis": "Author hypothetical accounting assumptions; no empirical identification"
+    },
+    {
+      "name": "Table 14 scenario 1 row 5",
+      "actual": 6,
+      "printed": 6.0,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million/year constant 2026",
+      "basis": "Author hypothetical accounting assumptions; no empirical identification"
+    },
+    {
+      "name": "Table 14 scenario 1 row 6",
+      "actual": 30.0,
+      "printed": 30.0,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million/year constant 2026",
+      "basis": "Author hypothetical accounting assumptions; no empirical identification"
+    },
+    {
+      "name": "Table 14 scenario 1 row 7",
+      "actual": 40.042500000000004,
+      "printed": 40.0,
+      "tolerance": 0.05,
+      "difference": 0.04250000000000398,
+      "pass_": true,
+      "unit": "US$ million/year constant 2026",
+      "basis": "Author hypothetical accounting assumptions; no empirical identification"
+    },
+    {
+      "name": "Table 14 scenario 1 row 8",
+      "actual": 145.04250000000002,
+      "printed": 145.0,
+      "tolerance": 0.05,
+      "difference": 0.04250000000001819,
+      "pass_": true,
+      "unit": "US$ million/year constant 2026",
+      "basis": "Author hypothetical accounting assumptions; no empirical identification"
+    },
+    {
+      "name": "Table 14 scenario 2 row 1",
+      "actual": 140.0,
+      "printed": 140.0,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million/year constant 2026",
+      "basis": "Author hypothetical accounting assumptions; no empirical identification"
+    },
+    {
+      "name": "Table 14 scenario 2 row 2",
+      "actual": 350.0,
+      "printed": 350.0,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million/year constant 2026",
+      "basis": "Author hypothetical accounting assumptions; no empirical identification"
+    },
+    {
+      "name": "Table 14 scenario 2 row 3",
+      "actual": 490.0,
+      "printed": 490.0,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million/year constant 2026",
+      "basis": "Author hypothetical accounting assumptions; no empirical identification"
+    },
+    {
+      "name": "Table 14 scenario 2 row 4",
+      "actual": 18.865000000000006,
+      "printed": 18.9,
+      "tolerance": 0.05,
+      "difference": -0.03499999999999304,
+      "pass_": true,
+      "unit": "US$ million/year constant 2026",
+      "basis": "Author hypothetical accounting assumptions; no empirical identification"
+    },
+    {
+      "name": "Table 14 scenario 2 row 5",
+      "actual": 30,
+      "printed": 30.0,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million/year constant 2026",
+      "basis": "Author hypothetical accounting assumptions; no empirical identification"
+    },
+    {
+      "name": "Table 14 scenario 2 row 6",
+      "actual": 105.0,
+      "printed": 105.0,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million/year constant 2026",
+      "basis": "Author hypothetical accounting assumptions; no empirical identification"
+    },
+    {
+      "name": "Table 14 scenario 2 row 7",
+      "actual": 153.865,
+      "printed": 153.9,
+      "tolerance": 0.05,
+      "difference": -0.03499999999999659,
+      "pass_": true,
+      "unit": "US$ million/year constant 2026",
+      "basis": "Author hypothetical accounting assumptions; no empirical identification"
+    },
+    {
+      "name": "Table 14 scenario 2 row 8",
+      "actual": 643.865,
+      "printed": 643.9,
+      "tolerance": 0.05,
+      "difference": -0.03499999999996817,
+      "pass_": true,
+      "unit": "US$ million/year constant 2026",
+      "basis": "Author hypothetical accounting assumptions; no empirical identification"
+    },
+    {
+      "name": "Table 14 scenario 3 row 1",
+      "actual": 480.0,
+      "printed": 480.0,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million/year constant 2026",
+      "basis": "Author hypothetical accounting assumptions; no empirical identification"
+    },
+    {
+      "name": "Table 14 scenario 3 row 2",
+      "actual": 900.0,
+      "printed": 900.0,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million/year constant 2026",
+      "basis": "Author hypothetical accounting assumptions; no empirical identification"
+    },
+    {
+      "name": "Table 14 scenario 3 row 3",
+      "actual": 1380.0,
+      "printed": 1380.0,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million/year constant 2026",
+      "basis": "Author hypothetical accounting assumptions; no empirical identification"
+    },
+    {
+      "name": "Table 14 scenario 3 row 4",
+      "actual": 53.13,
+      "printed": 53.1,
+      "tolerance": 0.05,
+      "difference": 0.030000000000001137,
+      "pass_": true,
+      "unit": "US$ million/year constant 2026",
+      "basis": "Author hypothetical accounting assumptions; no empirical identification"
+    },
+    {
+      "name": "Table 14 scenario 3 row 5",
+      "actual": 75,
+      "printed": 75.0,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million/year constant 2026",
+      "basis": "Author hypothetical accounting assumptions; no empirical identification"
+    },
+    {
+      "name": "Table 14 scenario 3 row 6",
+      "actual": 315.0,
+      "printed": 315.0,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million/year constant 2026",
+      "basis": "Author hypothetical accounting assumptions; no empirical identification"
+    },
+    {
+      "name": "Table 14 scenario 3 row 7",
+      "actual": 443.13,
+      "printed": 443.1,
+      "tolerance": 0.05,
+      "difference": 0.029999999999972715,
+      "pass_": true,
+      "unit": "US$ million/year constant 2026",
+      "basis": "Author hypothetical accounting assumptions; no empirical identification"
+    },
+    {
+      "name": "Table 14 scenario 3 row 8",
+      "actual": 1823.13,
+      "printed": 1823.1,
+      "tolerance": 0.05,
+      "difference": 0.03000000000020009,
+      "pass_": true,
+      "unit": "US$ million/year constant 2026",
+      "basis": "Author hypothetical accounting assumptions; no empirical identification"
+    },
+    {
+      "name": "2024 Ethiopia GDP",
+      "actual": 149.740297952375,
+      "printed": 149.7,
+      "tolerance": 0.05,
+      "difference": 0.04029795237499911,
+      "pass_": true,
+      "unit": "US$ billion current",
+      "basis": "Raw archived WDI"
+    },
+    {
+      "name": "hypothetical scale comparator",
+      "actual": 313.47969796032066,
+      "printed": 313.5,
+      "tolerance": 0.05,
+      "difference": -0.020302039679336303,
+      "pass_": true,
+      "unit": "US$ billion constant 2026",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "GDP increment scale 105",
+      "actual": 0.03349499207865467,
+      "printed": 0.03,
+      "tolerance": 0.005,
+      "difference": 0.0034949920786546684,
+      "pass_": true,
+      "unit": "percent",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "GDP increment scale 490",
+      "actual": 0.1563099630337218,
+      "printed": 0.16,
+      "tolerance": 0.005,
+      "difference": -0.003690036966278204,
+      "pass_": true,
+      "unit": "percent",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "GDP increment scale 1380",
+      "actual": 0.44021989589088995,
+      "printed": 0.44,
+      "tolerance": 0.005,
+      "difference": 0.00021989589088994288,
+      "pass_": true,
+      "unit": "percent",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "supplier coefficient",
+      "actual": 0.0385,
+      "printed": 0.0385,
+      "tolerance": 5e-05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "unitless",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "supplier per US$1bn at 0.1",
+      "actual": 19.25,
+      "printed": 19.25,
+      "tolerance": 0.005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "supplier per US$1bn at 0.2",
+      "actual": 38.5,
+      "printed": 38.5,
+      "tolerance": 0.005,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "supplier per US$1bn at 0.3",
+      "actual": 57.75000000000001,
+      "printed": 57.75,
+      "tolerance": 0.005,
+      "difference": 7.105427357601002e-15,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "maturity Ethiopia 0.35",
+      "actual": 171.5,
+      "printed": 171.5,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "maturity other 0.35",
+      "actual": 53.85275,
+      "printed": 53.9,
+      "tolerance": 0.05,
+      "difference": -0.04724999999999824,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "maturity Ethiopia 1.0",
+      "actual": 490.0,
+      "printed": 490,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "maturity other 1.0",
+      "actual": 153.865,
+      "printed": 153.9,
+      "tolerance": 0.05,
+      "difference": -0.03499999999999659,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "maturity Ethiopia 1.3",
+      "actual": 637.0,
+      "printed": 637,
+      "tolerance": 0.05,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "maturity other 1.3",
+      "actual": 200.02450000000002,
+      "printed": 200.0,
+      "tolerance": 0.05,
+      "difference": 0.024500000000017508,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "country supply allocation 0.4",
+      "actual": 7.546000000000003,
+      "printed": 7.5,
+      "tolerance": 0.05,
+      "difference": 0.04600000000000293,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "country supply allocation 0.2",
+      "actual": 3.7730000000000015,
+      "printed": 3.8,
+      "tolerance": 0.05,
+      "difference": -0.02699999999999836,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "country supply allocation 0.1",
+      "actual": 1.8865000000000007,
+      "printed": 1.9,
+      "tolerance": 0.05,
+      "difference": -0.01349999999999918,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Eritrea host logistics plus industry",
+      "actual": 135,
+      "printed": 135,
+      "tolerance": 0.05,
+      "difference": 0,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "jurisdiction Ethiopia",
+      "actual": 625,
+      "printed": 625,
+      "tolerance": 0.05,
+      "difference": 0,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "jurisdiction preserves total",
+      "actual": 643.865,
+      "printed": 643.9,
+      "tolerance": 0.05,
+      "difference": -0.03499999999996817,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "regional downside",
+      "actual": -11.134999999999994,
+      "printed": -11.1,
+      "tolerance": 0.05,
+      "difference": -0.03499999999999481,
+      "pass_": true,
+      "unit": "US$ million/year",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Ethiopia employment equivalents",
+      "actual": 24500.0,
+      "printed": 24500,
+      "tolerance": 0.5,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "worker equivalents",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "other employment equivalents",
+      "actual": 10257.666666666666,
+      "printed": 10258,
+      "tolerance": 0.5,
+      "difference": -0.33333333333393966,
+      "pass_": true,
+      "unit": "worker equivalents",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "training entrants",
+      "actual": 12000,
+      "printed": 12000,
+      "tolerance": 0.5,
+      "difference": 0,
+      "pass_": true,
+      "unit": "people/placements",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "training graduates",
+      "actual": 9600.0,
+      "printed": 9600,
+      "tolerance": 0.5,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "people/placements",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "training placements",
+      "actual": 6240.0,
+      "printed": 6240,
+      "tolerance": 0.5,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "people/placements",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "training women",
+      "actual": 3600.0,
+      "printed": 3600,
+      "tolerance": 0.5,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "people/placements",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "training local entrants",
+      "actual": 6000.0,
+      "printed": 6000,
+      "tolerance": 0.5,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "people/placements",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 15 Modest gifts",
+      "actual": 15.0,
+      "printed": 15.0,
+      "tolerance": 0.5,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million over five years",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 15 Modest capital share",
+      "actual": 0.7228915662650602,
+      "printed": 0.7,
+      "tolerance": 0.05,
+      "difference": 0.02289156626506028,
+      "pass_": true,
+      "unit": "percent",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 15 Central gifts",
+      "actual": 100.0,
+      "printed": 100.0,
+      "tolerance": 0.5,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million over five years",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 15 Central capital share",
+      "actual": 4.819277108433735,
+      "printed": 4.8,
+      "tolerance": 0.05,
+      "difference": 0.019277108433735535,
+      "pass_": true,
+      "unit": "percent",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 15 Strong gifts",
+      "actual": 400.0,
+      "printed": 400.0,
+      "tolerance": 0.5,
+      "difference": 0.0,
+      "pass_": true,
+      "unit": "US$ million over five years",
+      "basis": "Companion teaching assumptions"
+    },
+    {
+      "name": "Table 15 Strong capital share",
+      "actual": 19.27710843373494,
+      "printed": 19.3,
+      "tolerance": 0.05,
+      "difference": -0.022891566265059282,
+      "pass_": true,
+      "unit": "percent",
+      "basis": "Companion teaching assumptions"
+    }
+  ],
+  "verification_snapshot_comparison": [
+    {
+      "indicator": "SP.POP.TOTL",
+      "metadata": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 1000,
+        "total": 33,
+        "sourceid": "2",
+        "lastupdated": "2026-10-08"
+      },
+      "common_records": 33,
+      "differences": [],
+      "new_observations": []
+    },
+    {
+      "indicator": "TM.VAL.MRCH.CD.WT",
+      "metadata": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 1000,
+        "total": 33,
+        "sourceid": "2",
+        "lastupdated": "2026-10-08"
+      },
+      "common_records": 33,
+      "differences": [],
+      "new_observations": []
+    },
+    {
+      "indicator": "TX.VAL.MRCH.CD.WT",
+      "metadata": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 1000,
+        "total": 33,
+        "sourceid": "2",
+        "lastupdated": "2026-10-08"
+      },
+      "common_records": 33,
+      "differences": [],
+      "new_observations": []
+    },
+    {
+      "indicator": "NY.GDP.MKTP.KD",
+      "metadata": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 1000,
+        "total": 160,
+        "sourceid": "2",
+        "lastupdated": "2026-10-08"
+      },
+      "common_records": 150,
+      "differences": [],
+      "new_observations": [
+        {
+          "country": "DJI",
+          "year": 2025,
+          "value": 4095380799.70674
+        },
+        {
+          "country": "ERI",
+          "year": 2025,
+          "value": null
+        },
+        {
+          "country": "ETH",
+          "year": 2025,
+          "value": 128069700729.493
+        },
+        {
+          "country": "KEN",
+          "year": 2025,
+          "value": 109761569108.182
+        },
+        {
+          "country": "RWA",
+          "year": 2025,
+          "value": 16266231947.2257
+        },
+        {
+          "country": "SDN",
+          "year": 2025,
+          "value": 30073262602.2896
+        },
+        {
+          "country": "SOM",
+          "year": 2025,
+          "value": 9148089787.32035
+        },
+        {
+          "country": "SSD",
+          "year": 2025,
+          "value": null
+        },
+        {
+          "country": "TZA",
+          "year": 2025,
+          "value": 78821459765.6257
+        },
+        {
+          "country": "UGA",
+          "year": 2025,
+          "value": 52442200144.5364
+        }
+      ]
+    },
+    {
+      "indicator": "NY.GDP.MKTP.CD",
+      "metadata": {
+        "page": 1,
+        "pages": 1,
+        "per_page": 1000,
+        "total": 160,
+        "sourceid": "2",
+        "lastupdated": "2026-10-08"
+      },
+      "common_records": 150,
+      "differences": [],
+      "new_observations": [
+        {
+          "country": "DJI",
+          "year": 2025,
+          "value": 4624533092.31886
+        },
+        {
+          "country": "ERI",
+          "year": 2025,
+          "value": null
+        },
+        {
+          "country": "ETH",
+          "year": 2025,
+          "value": 126358758448.356
+        },
+        {
+          "country": "KEN",
+          "year": 2025,
+          "value": 135941278878.815
+        },
+        {
+          "country": "RWA",
+          "year": 2025,
+          "value": 16372132990.2271
+        },
+        {
+          "country": "SDN",
+          "year": 2025,
+          "value": 60162634574.4689
+        },
+        {
+          "country": "SOM",
+          "year": 2025,
+          "value": 12995200000.2658
+        },
+        {
+          "country": "SSD",
+          "year": 2025,
+          "value": null
+        },
+        {
+          "country": "TZA",
+          "year": 2025,
+          "value": 90143496090.4411
+        },
+        {
+          "country": "UGA",
+          "year": 2025,
+          "value": 61985829288.1496
+        }
+      ]
+    }
+  ],
+  "economic_diagnostics": {
+    "ch8_NPV_at_10Mt_20USD_8percent_USDm": 314.71195206005723,
+    "ch8_BCR_at_10Mt_20USD_8percent": 1.1728955434363,
+    "ch13_hub_NPV_at_10Mt_20USD_8percent_USDm": -420.40969076877127,
+    "ch13_hub_BCR_at_10Mt_20USD_8percent": 0.83547958802981,
+    "ch13_hub_traffic_break_even_at_rate4_8_12_Mt": [
+      8.891241139094669,
+      11.9691733266417,
+      15.478121867736439
+    ],
+    "ch13_Ethiopia_GDP_without_assumed_additional_private_capital_and_without_unestimated_capture_USDm": 0,
+    "ch13_industry_share_of_central_combined_GDP_percent": 70.66698764492556,
+    "ch13_new_private_capital_required_USDm": 1300,
+    "ch13_central_hub_plus_additional_private_capital_USDm": 3375,
+    "ch13_displaced_regional_logistics_stress_USDm": -11.134999999999994,
+    "historical_correlations_through2024": {
+      "DJI": 0.6170694121749338,
+      "KEN": -0.020386194157494843,
+      "UGA": 0.1663192097349447,
+      "TZA": 0.7844151137575441,
+      "RWA": 0.010521384929606508,
+      "aggregate": 0.2643398366006681,
+      "aggregate_excluding2020": -0.14554591960262614
+    },
+    "updated_correlations_through2025": {
+      "DJI": 0.6254215385736078,
+      "KEN": -0.02118131534472898,
+      "UGA": 0.25223239200587855,
+      "TZA": 0.7742876512367546,
+      "RWA": 0.07707298122199381,
+      "aggregate": 0.2892592554392883,
+      "aggregate_excluding2020": -0.09066889463396911
+    },
+    "updated_observation_count": 12,
+    "scope_note": "No teaching input is treated as observed Assab traffic/cost, available finance, net jobs or empirically identified GDP."
+  },
+  "stored_teaching_rows_consistency": [
+    {
+      "file": "companion_rows.json:hypothetical_inventory_costs.csv",
+      "rows": 15,
+      "failures": []
+    },
+    {
+      "file": "companion_rows.json:hypothetical_financing.csv",
+      "rows": 3,
+      "failures": []
+    },
+    {
+      "file": "companion_rows.json:hypothetical_project_grid.csv",
+      "rows": 9,
+      "failures": []
+    }
+  ]
+}

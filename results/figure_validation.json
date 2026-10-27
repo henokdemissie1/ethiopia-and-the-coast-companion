@@ -1,0 +1,653 @@
+{
+  "schema_version": 1,
+  "release": "v1.0",
+  "equivalent_not_pixel_identical": true,
+  "originals_never_overwritten": true,
+  "figures_requested": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "checks": [
+    {
+      "name": "Figure3 1993 population",
+      "actual": 53708891,
+      "expected": 53708891,
+      "tolerance": 1e-09,
+      "pass": true
+    },
+    {
+      "name": "Figure3 2010 population",
+      "actual": 90538514,
+      "expected": 90538514,
+      "tolerance": 1e-09,
+      "pass": true
+    },
+    {
+      "name": "Figure3 2025 population",
+      "actual": 135472051,
+      "expected": 135472051,
+      "tolerance": 1e-09,
+      "pass": true
+    },
+    {
+      "name": "Figure4 2025 imports",
+      "actual": 23012000000,
+      "expected": 23012000000,
+      "tolerance": 1e-09,
+      "pass": true
+    },
+    {
+      "name": "Figure4 2025 exports",
+      "actual": 7585000000,
+      "expected": 7585000000,
+      "tolerance": 1e-09,
+      "pass": true
+    },
+    {
+      "name": "Figure5 95 / 5",
+      "actual": 0.9049999999999999,
+      "expected": 0.905,
+      "tolerance": 1e-09,
+      "pass": true
+    },
+    {
+      "name": "Figure5 70 / 20 / 10",
+      "actual": 0.5399999999999999,
+      "expected": 0.54,
+      "tolerance": 1e-09,
+      "pass": true
+    },
+    {
+      "name": "Figure5 60 / 25 / 15",
+      "actual": 0.445,
+      "expected": 0.445,
+      "tolerance": 1e-09,
+      "pass": true
+    },
+    {
+      "name": "Figure8 Table5 row1 col1",
+      "actual": 1800,
+      "expected": 1800.0,
+      "tolerance": 0.005,
+      "pass": true
+    },
+    {
+      "name": "Figure8 Table5 row1 col2",
+      "actual": 1850,
+      "expected": 1850.0,
+      "tolerance": 0.005,
+      "pass": true
+    },
+    {
+      "name": "Figure8 Table5 row2 col1",
+      "actual": 400,
+      "expected": 400.0,
+      "tolerance": 0.005,
+      "pass": true
+    },
+    {
+      "name": "Figure8 Table5 row2 col2",
+      "actual": 450,
+      "expected": 450.0,
+      "tolerance": 0.005,
+      "pass": true
+    },
+    {
+      "name": "Figure8 Table5 row3 col1",
+      "actual": 1000,
+      "expected": 1000.0,
+      "tolerance": 0.005,
+      "pass": true
+    },
+    {
+      "name": "Figure8 Table5 row3 col2",
+      "actual": 800,
+      "expected": 800.0,
+      "tolerance": 0.005,
+      "pass": true
+    },
+    {
+      "name": "Figure8 Table5 row4 col1",
+      "actual": 120,
+      "expected": 120.0,
+      "tolerance": 0.005,
+      "pass": true
+    },
+    {
+      "name": "Figure8 Table5 row4 col2",
+      "actual": 140,
+      "expected": 140.0,
+      "tolerance": 0.005,
+      "pass": true
+    },
+    {
+      "name": "Figure8 Table5 row5 col1",
+      "actual": 197.26027397260273,
+      "expected": 197.26,
+      "tolerance": 0.005,
+      "pass": true
+    },
+    {
+      "name": "Figure8 Table5 row5 col2",
+      "actual": 138.08219178082192,
+      "expected": 138.08,
+      "tolerance": 0.005,
+      "pass": true
+    },
+    {
+      "name": "Figure8 Table5 row6 col1",
+      "actual": 60,
+      "expected": 60.0,
+      "tolerance": 0.005,
+      "pass": true
+    },
+    {
+      "name": "Figure8 Table5 row6 col2",
+      "actual": 80,
+      "expected": 80.0,
+      "tolerance": 0.005,
+      "pass": true
+    },
+    {
+      "name": "Figure9 archived inventory row",
+      "actual": 0.0,
+      "expected": 0.0,
+      "tolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "name": "Figure9 archived inventory row",
+      "actual": 12.32876712328767,
+      "expected": 12.32876712328767,
+      "tolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "name": "Figure9 archived inventory row",
+      "actual": 24.65753424657534,
+      "expected": 24.65753424657534,
+      "tolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "name": "Figure9 archived inventory row",
+      "actual": 49.31506849315068,
+      "expected": 49.31506849315068,
+      "tolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "name": "Figure9 archived inventory row",
+      "actual": 73.97260273972603,
+      "expected": 73.97260273972603,
+      "tolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "name": "Figure9 archived inventory row",
+      "actual": 0.0,
+      "expected": 0.0,
+      "tolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "name": "Figure9 archived inventory row",
+      "actual": 49.31506849315068,
+      "expected": 49.31506849315068,
+      "tolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "name": "Figure9 archived inventory row",
+      "actual": 98.63013698630137,
+      "expected": 98.63013698630137,
+      "tolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "name": "Figure9 archived inventory row",
+      "actual": 197.26027397260273,
+      "expected": 197.26027397260273,
+      "tolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "name": "Figure9 archived inventory row",
+      "actual": 295.8904109589041,
+      "expected": 295.8904109589041,
+      "tolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "name": "Figure9 archived inventory row",
+      "actual": 0.0,
+      "expected": 0.0,
+      "tolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "name": "Figure9 archived inventory row",
+      "actual": 246.57534246575344,
+      "expected": 246.57534246575344,
+      "tolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "name": "Figure9 archived inventory row",
+      "actual": 493.1506849315069,
+      "expected": 493.1506849315069,
+      "tolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "name": "Figure9 archived inventory row",
+      "actual": 986.3013698630137,
+      "expected": 986.3013698630137,
+      "tolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "name": "Figure9 archived inventory row",
+      "actual": 1479.4520547945206,
+      "expected": 1479.4520547945206,
+      "tolerance": 1e-08,
+      "pass": true
+    },
+    {
+      "name": "Figure10 annual equivalent cost",
+      "actual": 170.51816857795228,
+      "expected": 170.52,
+      "tolerance": 0.005,
+      "pass": true
+    },
+    {
+      "name": "Figure10 archived grid row",
+      "actual": -150518168.57795218,
+      "expected": -150518168.5779523,
+      "tolerance": 1e-05,
+      "pass": true
+    },
+    {
+      "name": "Figure10 archived grid row",
+      "actual": -130518168.57795218,
+      "expected": -130518168.5779523,
+      "tolerance": 1e-05,
+      "pass": true
+    },
+    {
+      "name": "Figure10 archived grid row",
+      "actual": -90518168.57795218,
+      "expected": -90518168.5779523,
+      "tolerance": 1e-05,
+      "pass": true
+    },
+    {
+      "name": "Figure10 archived grid row",
+      "actual": -120518168.57795218,
+      "expected": -120518168.5779523,
+      "tolerance": 1e-05,
+      "pass": true
+    },
+    {
+      "name": "Figure10 archived grid row",
+      "actual": -70518168.57795218,
+      "expected": -70518168.5779523,
+      "tolerance": 1e-05,
+      "pass": true
+    },
+    {
+      "name": "Figure10 archived grid row",
+      "actual": 29481831.422047824,
+      "expected": 29481831.422047704,
+      "tolerance": 1e-05,
+      "pass": true
+    },
+    {
+      "name": "Figure10 archived grid row",
+      "actual": -70518168.57795218,
+      "expected": -70518168.5779523,
+      "tolerance": 1e-05,
+      "pass": true
+    },
+    {
+      "name": "Figure10 archived grid row",
+      "actual": 29481831.422047824,
+      "expected": 29481831.422047704,
+      "tolerance": 1e-05,
+      "pass": true
+    },
+    {
+      "name": "Figure10 archived grid row",
+      "actual": 229481831.42204782,
+      "expected": 229481831.4220477,
+      "tolerance": 1e-05,
+      "pass": true
+    },
+    {
+      "name": "Figure10 Table6",
+      "actual": -150.51816857795228,
+      "expected": -150.52,
+      "tolerance": 0.005,
+      "pass": true
+    },
+    {
+      "name": "Figure10 Table6",
+      "actual": -130.51816857795228,
+      "expected": -130.52,
+      "tolerance": 0.005,
+      "pass": true
+    },
+    {
+      "name": "Figure10 Table6",
+      "actual": -90.51816857795228,
+      "expected": -90.52,
+      "tolerance": 0.005,
+      "pass": true
+    },
+    {
+      "name": "Figure10 Table6",
+      "actual": -120.51816857795228,
+      "expected": -120.52,
+      "tolerance": 0.005,
+      "pass": true
+    },
+    {
+      "name": "Figure10 Table6",
+      "actual": -70.51816857795228,
+      "expected": -70.52,
+      "tolerance": 0.005,
+      "pass": true
+    },
+    {
+      "name": "Figure10 Table6",
+      "actual": 29.48183142204772,
+      "expected": 29.48,
+      "tolerance": 0.005,
+      "pass": true
+    },
+    {
+      "name": "Figure10 Table6",
+      "actual": -70.51816857795228,
+      "expected": -70.52,
+      "tolerance": 0.005,
+      "pass": true
+    },
+    {
+      "name": "Figure10 Table6",
+      "actual": 29.48183142204772,
+      "expected": 29.48,
+      "tolerance": 0.005,
+      "pass": true
+    },
+    {
+      "name": "Figure10 Table6",
+      "actual": 229.48183142204772,
+      "expected": 229.48,
+      "tolerance": 0.005,
+      "pass": true
+    },
+    {
+      "name": "Figure13 aggregate Pearson r",
+      "actual": 0.2643398366006681,
+      "expected": 0.26,
+      "tolerance": 0.005,
+      "pass": true
+    },
+    {
+      "name": "Figure13 aggregate r excluding2020",
+      "actual": -0.14554591960262614,
+      "expected": -0.15,
+      "tolerance": 0.005,
+      "pass": true
+    },
+    {
+      "name": "Figure14 Table14 scenario1 row1",
+      "actual": 30.0,
+      "expected": 30.0,
+      "tolerance": 0.05,
+      "pass": true
+    },
+    {
+      "name": "Figure14 Table14 scenario1 row2",
+      "actual": 75.0,
+      "expected": 75.0,
+      "tolerance": 0.05,
+      "pass": true
+    },
+    {
+      "name": "Figure14 Table14 scenario1 row3",
+      "actual": 105.0,
+      "expected": 105.0,
+      "tolerance": 0.05,
+      "pass": true
+    },
+    {
+      "name": "Figure14 Table14 scenario1 row4",
+      "actual": 4.0425,
+      "expected": 4.0,
+      "tolerance": 0.05,
+      "pass": true
+    },
+    {
+      "name": "Figure14 Table14 scenario1 row5",
+      "actual": 6,
+      "expected": 6.0,
+      "tolerance": 0.05,
+      "pass": true
+    },
+    {
+      "name": "Figure14 Table14 scenario1 row6",
+      "actual": 30.0,
+      "expected": 30.0,
+      "tolerance": 0.05,
+      "pass": true
+    },
+    {
+      "name": "Figure14 Table14 scenario1 row7",
+      "actual": 40.042500000000004,
+      "expected": 40.0,
+      "tolerance": 0.05,
+      "pass": true
+    },
+    {
+      "name": "Figure14 Table14 scenario1 row8",
+      "actual": 145.04250000000002,
+      "expected": 145.0,
+      "tolerance": 0.05,
+      "pass": true
+    },
+    {
+      "name": "Figure14 Table14 scenario2 row1",
+      "actual": 140.0,
+      "expected": 140.0,
+      "tolerance": 0.05,
+      "pass": true
+    },
+    {
+      "name": "Figure14 Table14 scenario2 row2",
+      "actual": 350.0,
+      "expected": 350.0,
+      "tolerance": 0.05,
+      "pass": true
+    },
+    {
+      "name": "Figure14 Table14 scenario2 row3",
+      "actual": 490.0,
+      "expected": 490.0,
+      "tolerance": 0.05,
+      "pass": true
+    },
+    {
+      "name": "Figure14 Table14 scenario2 row4",
+      "actual": 18.865000000000006,
+      "expected": 18.9,
+      "tolerance": 0.05,
+      "pass": true
+    },
+    {
+      "name": "Figure14 Table14 scenario2 row5",
+      "actual": 30,
+      "expected": 30.0,
+      "tolerance": 0.05,
+      "pass": true
+    },
+    {
+      "name": "Figure14 Table14 scenario2 row6",
+      "actual": 105.0,
+      "expected": 105.0,
+      "tolerance": 0.05,
+      "pass": true
+    },
+    {
+      "name": "Figure14 Table14 scenario2 row7",
+      "actual": 153.865,
+      "expected": 153.9,
+      "tolerance": 0.05,
+      "pass": true
+    },
+    {
+      "name": "Figure14 Table14 scenario2 row8",
+      "actual": 643.865,
+      "expected": 643.9,
+      "tolerance": 0.05,
+      "pass": true
+    },
+    {
+      "name": "Figure14 Table14 scenario3 row1",
+      "actual": 480.0,
+      "expected": 480.0,
+      "tolerance": 0.05,
+      "pass": true
+    },
+    {
+      "name": "Figure14 Table14 scenario3 row2",
+      "actual": 900.0,
+      "expected": 900.0,
+      "tolerance": 0.05,
+      "pass": true
+    },
+    {
+      "name": "Figure14 Table14 scenario3 row3",
+      "actual": 1380.0,
+      "expected": 1380.0,
+      "tolerance": 0.05,
+      "pass": true
+    },
+    {
+      "name": "Figure14 Table14 scenario3 row4",
+      "actual": 53.13,
+      "expected": 53.1,
+      "tolerance": 0.05,
+      "pass": true
+    },
+    {
+      "name": "Figure14 Table14 scenario3 row5",
+      "actual": 75,
+      "expected": 75.0,
+      "tolerance": 0.05,
+      "pass": true
+    },
+    {
+      "name": "Figure14 Table14 scenario3 row6",
+      "actual": 315.0,
+      "expected": 315.0,
+      "tolerance": 0.05,
+      "pass": true
+    },
+    {
+      "name": "Figure14 Table14 scenario3 row7",
+      "actual": 443.13,
+      "expected": 443.1,
+      "tolerance": 0.05,
+      "pass": true
+    },
+    {
+      "name": "Figure14 Table14 scenario3 row8",
+      "actual": 1823.13,
+      "expected": 1823.1,
+      "tolerance": 0.05,
+      "pass": true
+    }
+  ],
+  "passed": 80,
+  "failed": [],
+  "outputs": [
+    {
+      "file": "figures/regenerated/figure_01_equivalent.png",
+      "sha256": "581971e2f2aa979e2197c68dd5e7046174e830ed8b0bbc51a30e084ada7d3faf"
+    },
+    {
+      "file": "figures/regenerated/figure_02_equivalent.png",
+      "sha256": "ec21188e76767fb5ef9f812ad6ee0e95dc4605f7618670a099e976df2ed7c752"
+    },
+    {
+      "file": "figures/regenerated/figure_03_equivalent.png",
+      "sha256": "36e8e4de84f00e6b40a9f10661af1547a597a9355523af632af872bcab5da749"
+    },
+    {
+      "file": "figures/regenerated/figure_04_equivalent.png",
+      "sha256": "9e2a71b564729e4bae5768b4df0a8c3e8c3420466902b16945f7fbeee6b7fe79"
+    },
+    {
+      "file": "figures/regenerated/figure_05_equivalent.png",
+      "sha256": "4dc22e783297eb7ff96bc855488aed708aa37cf2e3ebab28d9ddf65fd10b8441"
+    },
+    {
+      "file": "figures/regenerated/figure_06_equivalent.png",
+      "sha256": "a6d4a20d0357279217edf501e1888cb7a2ed9751a2222e299017e8c82f0b145c"
+    },
+    {
+      "file": "figures/regenerated/figure_07_equivalent.png",
+      "sha256": "ecbba0ac0ed8d50ae15613231b302867f74567100fec97d903b0e1effd9ccfe9"
+    },
+    {
+      "file": "figures/regenerated/figure_08_equivalent.png",
+      "sha256": "c75dc498acae6786bea221f936967bab00e205014037563b2911472b18929afc"
+    },
+    {
+      "file": "figures/regenerated/figure_09_equivalent.png",
+      "sha256": "e579ba22f4eac77e45cb9ff23bd9529bbe281e168ae6fe33c7afb0f89e4d9470"
+    },
+    {
+      "file": "figures/regenerated/figure_10_equivalent.png",
+      "sha256": "b390db5f7b9004d36c2f9b3a741a4faa6091588a132da33a102c734dcd925c2a"
+    },
+    {
+      "file": "figures/regenerated/figure_11_equivalent.png",
+      "sha256": "a228bea03d4ec17944424f2d602ec46aa41908b3eca77b0d39b2242cc6903990"
+    },
+    {
+      "file": "figures/regenerated/figure_12_equivalent.png",
+      "sha256": "0e6c752ca881bae6d11b63c153b9b2af42967cf45a74306bbeddd540b0883f76"
+    },
+    {
+      "file": "figures/regenerated/figure_13_equivalent.png",
+      "sha256": "a5bc20ac71cb345c974408e4364f87559e5a5f2bfc82a93d363e496c7dc618f2"
+    },
+    {
+      "file": "figures/regenerated/figure_14_equivalent.png",
+      "sha256": "536fcfcc38f969358001754745e1dd1e0aa27fb109fca6fa7e1237bc46afdc94"
+    },
+    {
+      "file": "figures/regenerated/map1_orientation_equivalent.png",
+      "sha256": "28bb0bdf10be9ea9a80ea44592f6129af682cd81615b506b8bfe24a0a795f392"
+    },
+    {
+      "file": "figures/regenerated/map2_comparison_equivalent.png",
+      "sha256": "e875f276552be36ffaa594fbed0ae76c311cca8d4925cca573c758c9a4def792"
+    }
+  ],
+  "input_status": "Observed historical series and hypothetical assumptions are identified separately in plot_data/ and FIGURES.md."
+}

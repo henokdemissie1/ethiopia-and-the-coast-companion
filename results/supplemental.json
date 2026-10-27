@@ -1,0 +1,20 @@
+{
+  "annuity_factor": 10.674776188588583,
+  "annual_equivalent_cost": 239.3834665328338,
+  "npv": -420.4096907687697,
+  "bcr": 0.8354795880298108,
+  "combined_capital_before_exclusions": 3375,
+  "central_eth_gdp": 490.0,
+  "central_other_gdp": 153.865,
+  "central_combined_gdp": 643.865,
+  "private_industry_share": 0.7066698764492556,
+  "no_private_industry_eth": 140.0,
+  "no_private_industry_supplier": 5.390000000000001,
+  "no_private_industry_other": 35.39,
+  "no_private_industry_combined": 175.39,
+  "zero_response_additional_gdp": 0,
+  "regional_diversion_stress": -11.134999999999994,
+  "same_consignment_extra_cost_dollars": 20,
+  "delay_budget_dollars": 70,
+  "delay_threshold_days": 2.0
+}

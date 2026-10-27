@@ -1,0 +1,84 @@
+[
+  {
+    "file": "figures/regenerated/map1_orientation_equivalent.png",
+    "bounds": [
+      33,
+      50,
+      -5,
+      19
+    ],
+    "coordinates": {
+      "Mombasa": [
+        39.666666666666664,
+        -4.066666666666666
+      ],
+      "Berbera": [
+        45.016666666666666,
+        10.45
+      ],
+      "Djibouti": [
+        43.13333333333333,
+        11.6
+      ],
+      "Assab": [
+        42.75,
+        13
+      ],
+      "Massawa": [
+        39.46666666666667,
+        15.616666666666667
+      ],
+      "Addis Ababa": [
+        38.698059,
+        9.035256
+      ]
+    },
+    "projection": "Equirectangular geographic graticule; orientation only",
+    "axes": false,
+    "pixels": [
+      1800,
+      2415
+    ]
+  },
+  {
+    "file": "figures/regenerated/map2_comparison_equivalent.png",
+    "bounds": [
+      36,
+      48,
+      7,
+      18
+    ],
+    "coordinates": {
+      "Mombasa": [
+        39.666666666666664,
+        -4.066666666666666
+      ],
+      "Berbera": [
+        45.016666666666666,
+        10.45
+      ],
+      "Djibouti": [
+        43.13333333333333,
+        11.6
+      ],
+      "Assab": [
+        42.75,
+        13
+      ],
+      "Massawa": [
+        39.46666666666667,
+        15.616666666666667
+      ],
+      "Addis Ababa": [
+        38.698059,
+        9.035256
+      ]
+    },
+    "projection": "Equirectangular geographic graticule; orientation only",
+    "axes": true,
+    "pixels": [
+      1800,
+      1665
+    ]
+  }
+]
