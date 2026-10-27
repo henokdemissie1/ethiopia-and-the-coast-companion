@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Download the data, calculations, tables and figures accompanying Ethiopia and the Coast by Henok Kefelegn, PhD.">
+  <title>Ethiopia and the Coast | Data and Analysis Companion</title>
+  <style>
+    :root { color-scheme: light; --ink:#152d40; --blue:#145d82; --paper:#f4f7f9; }
+    * { box-sizing:border-box; }
+    body { margin:0; background:var(--paper); color:var(--ink); font:17px/1.65 system-ui,-apple-system,"Segoe UI",sans-serif; }
+    a { color:var(--blue); text-underline-offset:3px; }
+    a:focus-visible { outline:3px solid #da8b31; outline-offset:5px; }
+    .wrap { max-width:1050px; margin:0 auto; padding:0 28px; }
+    header { background:#112c40; color:white; padding:60px 0 48px; }
+    header .eyebrow { color:#a8d4e7; font-size:.9rem; letter-spacing:.12em; text-transform:uppercase; }
+    h1 { font:600 clamp(2.4rem,6vw,4.3rem)/1.08 Georgia,serif; max-width:850px; margin:16px 0; }
+    header p { max-width:720px; color:#e2edf3; }
+    .subtitle { font-size:1.3rem; margin:0 0 10px; }
+    .actions { display:flex; flex-wrap:wrap; gap:14px; margin:28px 0 16px; }
+    .button { display:inline-block; padding:12px 20px; background:#e0ad62; color:#102b3d; border:1px solid #e0ad62; border-radius:5px; text-decoration:none; font-weight:700; }
+    .button.secondary { background:transparent; color:white; border-color:#7f9dae; }
+    .release { font-size:.92rem; color:#c1d9e5; }
+    main { padding:38px 0 54px; }
+    h2 { font-size:1.4rem; margin:32px 0 10px; }
+    .stats { display:flex; flex-wrap:wrap; gap:18px 38px; border-bottom:1px solid #cad7df; padding-bottom:28px; font-size:1rem; }
+    .stats strong { font-size:1.55rem; display:block; }
+    .columns { display:grid; grid-template-columns:1fr 1fr; gap:38px; }
+    pre { overflow-x:auto; padding:18px; background:#e6edf2; border-radius:4px; font-size:.89rem; line-height:1.8; }
+    code { font-family:ui-monospace,Consolas,monospace; }
+    ul { padding-left:22px; }
+    li { margin:6px 0; }
+    .citation { padding:20px 0; border-top:1px solid #cad7df; }
+    footer { padding:24px 0 36px; background:#e8eff3; font-size:.88rem; }
+    @media(max-width:700px) { .columns { grid-template-columns:1fr; gap:0; } .wrap { padding:0 20px; } header { padding:38px 0; } }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="wrap">
+      <div class="eyebrow">First Edition · v1.0</div>
+      <h1>Ethiopia and the Coast</h1>
+      <p class="subtitle">Data and Analysis Companion</p>
+      <p>Henok Kefelegn, PhD</p>
+      <p>Explore the evidence and reproduce the calculations behind the book’s discussion of maritime access, engineering, development and regional opportunity.</p>
+      <div class="actions">
+        <a class="button" href="https://github.com/henokdemissie1/ethiopia-and-the-coast-companion/releases/download/v1.0/Ethiopia_and_the_Coast_Companion_v1.0.zip">Download companion materials</a>
+        <a class="button secondary" href="https://github.com/henokdemissie1/ethiopia-and-the-coast-companion/releases/tag/v1.0">View this release</a>
+      </div>
+      <div class="release">Released 27 October 2026 · <a style="color:#c1d9e5" href="https://doi.org/10.5281/zenodo.23698701">Archival record and DOI</a></div>
+    </div>
+  </header>
+  <main class="wrap">
+    <div class="stats" aria-label="Companion contents">
+      <div><strong>15</strong>baseline tables</div>
+      <div><strong>14</strong>numbered figures</div>
+      <div><strong>2</strong>orientation maps</div>
+      <div><strong>89</strong>reference entries</div>
+    </div>
+    <div class="columns">
+      <section>
+        <h2>Start with the evidence</h2>
+        <p>Download and extract the ZIP. Read <code>README.md</code> first. Tables are provided as CSV files and figures as PNG images, so these materials can be explored without running the scripts.</p>
+        <ul>
+          <li>Dated World Bank observations with original units and source metadata.</li>
+          <li>Shipment, investment and regional production examples with explicit assumptions.</li>
+          <li>A figure registry, data dictionary, source queries and component-specific reuse notices.</li>
+        </ul>
+        <p><a href="https://github.com/henokdemissie1/ethiopia-and-the-coast-companion#readme">Read the full instructions</a> · <a href="https://github.com/henokdemissie1/ethiopia-and-the-coast-companion/blob/main/DATA_DICTIONARY.md">Data dictionary</a></p>
+      </section>
+      <section>
+        <h2>Reproduce the analysis</h2>
+        <p>The numerical calculations run offline with Python 3.10 or later and its standard library.</p>
+        <pre><code>python reproduce_core_models.py --tables-only
+python reproduce_supplemental.py
+python export_tables.py</code></pre>
+        <p>Figure regeneration also needs Pillow. The README explains the command and the difference between supplied original figures and regenerated equivalents.</p>
+        <p><a href="https://github.com/henokdemissie1/ethiopia-and-the-coast-companion/blob/main/FIGURES.md">Figure registry and reproduction details</a></p>
+      </section>
+    </div>
+    <section>
+      <h2>What the numbers mean</h2>
+      <p>Historical observations and chosen scenarios serve different purposes. The teaching scenarios are not measurements of current Assab conditions, forecasts of investment returns or estimates of a causal maritime-access effect. The central hub example fails its transport-savings-only test; positive production illustrations do not remove that result.</p>
+      <p>Version 1.0 matches the manuscript baseline dated 27 October 2026. “First Edition” identifies this companion release; the book may undergo further editorial revision. Later companion updates will be issued separately so this version remains identifiable.</p>
+    </section>
+    <section class="citation">
+      <h2>Cite the companion</h2>
+      <p>Kefelegn, H. (2026). <em>Ethiopia and the Coast: Data and Analysis Companion — First Edition, v1.0</em> (Version 1.0) [Data set]. Zenodo. <a href="https://doi.org/10.5281/zenodo.23698701">https://doi.org/10.5281/zenodo.23698701</a></p>
+      <p><a href="https://github.com/henokdemissie1/ethiopia-and-the-coast-companion/blob/main/CITATION.cff">Machine-readable citation</a> · <a href="https://github.com/henokdemissie1/ethiopia-and-the-coast-companion/issues">Report a data or calculation issue</a></p>
+    </section>
+  </main>
+  <footer>
+    <div class="wrap">© 2026 Henok Kefelegn. Original data and documentation: CC BY 4.0. Original code: MIT. Third-party materials retain their stated terms. <a href="https://github.com/henokdemissie1/ethiopia-and-the-coast-companion/blob/main/THIRD_PARTY_NOTICES.md">Source credits and notices</a>.</div>
+  </footer>
+</body>
+</html>

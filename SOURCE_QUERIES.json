@@ -1,0 +1,147 @@
+{
+  "version": "1.0",
+  "baseline_date": "2026-10-27",
+  "scope": "Source queries for frozen observations and a separately retained verification snapshot. Re-running an API URL today may return a newer vintage; use the included files to reproduce this baseline.",
+  "queries": [
+    {
+      "path": "data/archived/population.json",
+      "indicator": "SP.POP.TOTL",
+      "url": "https://api.worldbank.org/v2/country/ETH/indicator/SP.POP.TOTL?format=json&date=1993:2025&per_page=100",
+      "query_status": "documented in the companion bibliography; original transport log unavailable",
+      "retrieved": "2026-10-10",
+      "lastupdated": "2026-10-08",
+      "records": 33,
+      "provenance": "Date and URL are preserved in the numbered source entry. The raw response reports its own page/record/update metadata. This is not an invented new retrieval."
+    },
+    {
+      "path": "data/archived/imports.json",
+      "indicator": "TM.VAL.MRCH.CD.WT",
+      "url": "https://api.worldbank.org/v2/country/ETH/indicator/TM.VAL.MRCH.CD.WT?format=json&date=1993:2025&per_page=100",
+      "query_status": "documented in the companion bibliography; original transport log unavailable",
+      "retrieved": "2026-10-10",
+      "lastupdated": "2026-10-08",
+      "records": 33,
+      "provenance": "Date and URL are preserved in the numbered source entry. The raw response reports its own page/record/update metadata. This is not an invented new retrieval."
+    },
+    {
+      "path": "data/archived/exports.json",
+      "indicator": "TX.VAL.MRCH.CD.WT",
+      "url": "https://api.worldbank.org/v2/country/ETH/indicator/TX.VAL.MRCH.CD.WT?format=json&date=1993:2025&per_page=100",
+      "query_status": "documented in the companion bibliography; original transport log unavailable",
+      "retrieved": "2026-10-10",
+      "lastupdated": "2026-10-08",
+      "records": 33,
+      "provenance": "Date and URL are preserved in the numbered source entry. The raw response reports its own page/record/update metadata. This is not an invented new retrieval."
+    },
+    {
+      "path": "data/archived/NY.GDP.MKTP.KD.json",
+      "indicator": "NY.GDP.MKTP.KD",
+      "url": "https://api.worldbank.org/v2/country/ETH;DJI;KEN;UGA;TZA;RWA;ERI;SOM;SDN;SSD/indicator/NY.GDP.MKTP.KD?format=json&date=2010:2024&per_page=1000",
+      "query_status": "documented original query",
+      "retrieved": "2026-10-11",
+      "lastupdated": "2026-10-08",
+      "records": 150,
+      "provenance": "A preserved source manifest records the URL/date; its data response is byte-identical to this file."
+    },
+    {
+      "path": "data/archived/NY.GDP.MKTP.CD.json",
+      "indicator": "NY.GDP.MKTP.CD",
+      "url": "https://api.worldbank.org/v2/country/ETH;DJI;KEN;UGA;TZA;RWA;ERI;SOM;SDN;SSD/indicator/NY.GDP.MKTP.CD?format=json&date=2010:2024&per_page=1000",
+      "query_status": "documented original query",
+      "retrieved": "2026-10-11",
+      "lastupdated": "2026-10-08",
+      "records": 150,
+      "provenance": "A preserved source manifest records the URL/date; its data response is byte-identical to this file."
+    },
+    {
+      "path": "data/verification_2026_10_27/economics_live_SP.POP.TOTL.json",
+      "indicator": "SP.POP.TOTL",
+      "url": "https://api.worldbank.org/v2/country/ETH/indicator/SP.POP.TOTL?format=json&date=1993:2025&per_page=1000",
+      "query_status": "documented comparison query",
+      "retrieved": "2026-10-27",
+      "lastupdated": "2026-10-08",
+      "records": 33,
+      "provenance": "URL and response metadata are preserved in the numerical verification query summary; the dated snapshot is kept separate from the reproduction inputs."
+    },
+    {
+      "path": "data/verification_2026_10_27/economics_live_TM.VAL.MRCH.CD.WT.json",
+      "indicator": "TM.VAL.MRCH.CD.WT",
+      "url": "https://api.worldbank.org/v2/country/ETH/indicator/TM.VAL.MRCH.CD.WT?format=json&date=1993:2025&per_page=1000",
+      "query_status": "documented comparison query",
+      "retrieved": "2026-10-27",
+      "lastupdated": "2026-10-08",
+      "records": 33,
+      "provenance": "URL and response metadata are preserved in the numerical verification query summary; the dated snapshot is kept separate from the reproduction inputs."
+    },
+    {
+      "path": "data/verification_2026_10_27/economics_live_TX.VAL.MRCH.CD.WT.json",
+      "indicator": "TX.VAL.MRCH.CD.WT",
+      "url": "https://api.worldbank.org/v2/country/ETH/indicator/TX.VAL.MRCH.CD.WT?format=json&date=1993:2025&per_page=1000",
+      "query_status": "documented comparison query",
+      "retrieved": "2026-10-27",
+      "lastupdated": "2026-10-08",
+      "records": 33,
+      "provenance": "URL and response metadata are preserved in the numerical verification query summary; the dated snapshot is kept separate from the reproduction inputs."
+    },
+    {
+      "path": "data/verification_2026_10_27/economics_live_NY.GDP.MKTP.KD.json",
+      "indicator": "NY.GDP.MKTP.KD",
+      "url": "https://api.worldbank.org/v2/country/ETH;DJI;KEN;UGA;TZA;RWA;ERI;SOM;SDN;SSD/indicator/NY.GDP.MKTP.KD?format=json&date=2010:2025&per_page=1000",
+      "query_status": "documented comparison query",
+      "retrieved": "2026-10-27",
+      "lastupdated": "2026-10-08",
+      "records": 160,
+      "provenance": "URL and response metadata are preserved in the numerical verification query summary; the dated snapshot is kept separate from the reproduction inputs."
+    },
+    {
+      "path": "data/verification_2026_10_27/economics_live_NY.GDP.MKTP.CD.json",
+      "indicator": "NY.GDP.MKTP.CD",
+      "url": "https://api.worldbank.org/v2/country/ETH;DJI;KEN;UGA;TZA;RWA;ERI;SOM;SDN;SSD/indicator/NY.GDP.MKTP.CD?format=json&date=2010:2025&per_page=1000",
+      "query_status": "documented comparison query",
+      "retrieved": "2026-10-27",
+      "lastupdated": "2026-10-08",
+      "records": 160,
+      "provenance": "URL and response metadata are preserved in the numerical verification query summary; the dated snapshot is kept separate from the reproduction inputs."
+    },
+    {
+      "path": "data/metadata/SP.POP.TOTL.json",
+      "indicator": "SP.POP.TOTL",
+      "url": "https://api.worldbank.org/v2/indicator/SP.POP.TOTL?format=json",
+      "query_status": "documented metadata query",
+      "retrieved": "2026-10-27",
+      "provenance": "Public indicator metadata fetched independently; these definitions do not replace any frozen data observations."
+    },
+    {
+      "path": "data/metadata/TM.VAL.MRCH.CD.WT.json",
+      "indicator": "TM.VAL.MRCH.CD.WT",
+      "url": "https://api.worldbank.org/v2/indicator/TM.VAL.MRCH.CD.WT?format=json",
+      "query_status": "documented metadata query",
+      "retrieved": "2026-10-27",
+      "provenance": "Public indicator metadata fetched independently; these definitions do not replace any frozen data observations."
+    },
+    {
+      "path": "data/metadata/TX.VAL.MRCH.CD.WT.json",
+      "indicator": "TX.VAL.MRCH.CD.WT",
+      "url": "https://api.worldbank.org/v2/indicator/TX.VAL.MRCH.CD.WT?format=json",
+      "query_status": "documented metadata query",
+      "retrieved": "2026-10-27",
+      "provenance": "Public indicator metadata fetched independently; these definitions do not replace any frozen data observations."
+    },
+    {
+      "path": "data/metadata/NY.GDP.MKTP.KD.json",
+      "indicator": "NY.GDP.MKTP.KD",
+      "url": "https://api.worldbank.org/v2/indicator/NY.GDP.MKTP.KD?format=json",
+      "query_status": "documented metadata query",
+      "retrieved": "2026-10-27",
+      "provenance": "Public indicator metadata fetched independently; these definitions do not replace any frozen data observations."
+    },
+    {
+      "path": "data/metadata/NY.GDP.MKTP.CD.json",
+      "indicator": "NY.GDP.MKTP.CD",
+      "url": "https://api.worldbank.org/v2/indicator/NY.GDP.MKTP.CD?format=json",
+      "query_status": "documented metadata query",
+      "retrieved": "2026-10-27",
+      "provenance": "Public indicator metadata fetched independently; these definitions do not replace any frozen data observations."
+    }
+  ]
+}

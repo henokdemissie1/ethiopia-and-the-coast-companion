@@ -1,0 +1,252 @@
+{
+  "release": "v1.0",
+  "manuscript_sha256": "20c3614130cd14a21d29f92a5822e1441991c685f3fff46b8d2fc4ccea4e2ec5",
+  "visual_count": 16,
+  "numbered_figures": 14,
+  "maps": 2,
+  "figures": [
+    {
+      "label": "Map 1",
+      "caption": "Ethiopia and selected neighboring gateways",
+      "book_pdf_page": 16,
+      "original_file": "figures/original/image1.png",
+      "original_sha256": "28bb0bdf10be9ea9a80ea44592f6129af682cd81615b506b8bfe24a0a795f392",
+      "equivalent_file": "figures/regenerated/map1_orientation_equivalent.png",
+      "equivalent_not_pixel_identical": true,
+      "status": "Geographic orientation",
+      "units": "Approximate longitude/latitude degrees",
+      "book_references": [
+        88,
+        89
+      ],
+      "plot_data": "map_data/selected_locations.json"
+    },
+    {
+      "label": "Figure 1",
+      "caption": "Selected historical and diplomatic milestones",
+      "book_pdf_page": 28,
+      "original_file": "figures/original/image3.png",
+      "original_sha256": "9f9d6f87b76dff1aad90573a49c14375c2097a1279eeecb0e46d88980c1f2090",
+      "equivalent_file": "figures/regenerated/figure_01_equivalent.png",
+      "equivalent_not_pixel_identical": true,
+      "status": "Historical selection; equal spacing",
+      "units": "Calendar years; spacing is not proportional",
+      "book_references": [
+        3,
+        4,
+        5,
+        9,
+        32,
+        73,
+        76
+      ],
+      "plot_data": "plot_data/figure_01.json"
+    },
+    {
+      "label": "Figure 2",
+      "caption": "The export supply chain as a connected system",
+      "book_pdf_page": 38,
+      "original_file": "figures/original/image4.png",
+      "original_sha256": "c3f8d0afe607dd514a120795cfbe3bdd2e139d99469035ac8234402be66496bf",
+      "equivalent_file": "figures/regenerated/figure_02_equivalent.png",
+      "equivalent_not_pixel_identical": true,
+      "status": "Author conceptual schematic",
+      "units": "No physical scale or quantity",
+      "book_references": [],
+      "plot_data": "plot_data/figure_02.json"
+    },
+    {
+      "label": "Figure 3",
+      "caption": "Ethiopia population estimates from 1993 to 2025",
+      "book_pdf_page": 44,
+      "original_file": "figures/original/image5.png",
+      "original_sha256": "0dabd7e2f6cc1ef71be3cd1b22578b280a46469da42568b4fa574c1a9a58a95f",
+      "equivalent_file": "figures/regenerated/figure_03_equivalent.png",
+      "equivalent_not_pixel_identical": true,
+      "status": "Archived observed-series estimates",
+      "units": "Midyear people; chart in millions",
+      "book_references": [
+        13
+      ],
+      "plot_data": "plot_data/figure_03.json"
+    },
+    {
+      "label": "Figure 4",
+      "caption": "Merchandise imports and exports from 1993 to 2025",
+      "book_pdf_page": 46,
+      "original_file": "figures/original/image6.png",
+      "original_sha256": "0f4d625a22608fd1db1548c821d46cc0edd9476301d90c5690f7a4fed9c1956e",
+      "equivalent_file": "figures/regenerated/figure_04_equivalent.png",
+      "equivalent_not_pixel_identical": true,
+      "status": "Archived merchandise value series",
+      "units": "Current US dollars; chart in billions",
+      "book_references": [
+        14,
+        15
+      ],
+      "plot_data": "plot_data/figure_04.json"
+    },
+    {
+      "label": "Figure 5",
+      "caption": "Concentration under three hypothetical portfolios",
+      "book_pdf_page": 48,
+      "original_file": "figures/original/image7.png",
+      "original_sha256": "de28a6eea976e809d95f4300459e3d50925c67f05bfb3f2f4b133cd906fa3910",
+      "equivalent_file": "figures/regenerated/figure_05_equivalent.png",
+      "equivalent_not_pixel_identical": true,
+      "status": "Author hypothetical shares",
+      "units": "Sum of squared fractional shares; unitless",
+      "book_references": [],
+      "plot_data": "plot_data/figure_05.json"
+    },
+    {
+      "label": "Map 2",
+      "caption": "A common origin for gateway comparisons",
+      "book_pdf_page": 71,
+      "original_file": "figures/original/image8.png",
+      "original_sha256": "e875f276552be36ffaa594fbed0ae76c311cca8d4925cca573c758c9a4def792",
+      "equivalent_file": "figures/regenerated/map2_comparison_equivalent.png",
+      "equivalent_not_pixel_identical": true,
+      "status": "Geographic orientation/comparison axes",
+      "units": "Approximate longitude/latitude degrees",
+      "book_references": [
+        88,
+        89
+      ],
+      "plot_data": "map_data/selected_locations.json"
+    },
+    {
+      "label": "Figure 6",
+      "caption": "A simplified port cross section",
+      "book_pdf_page": 75,
+      "original_file": "figures/original/image9.png",
+      "original_sha256": "28148874f339ba5785723d0fe0dcea917d96c6118b8a339f1ffad1cdb6be73bf",
+      "equivalent_file": "figures/regenerated/figure_06_equivalent.png",
+      "equivalent_not_pixel_identical": true,
+      "status": "Author conceptual schematic",
+      "units": "Not to scale; separate illustrative allowances in metres",
+      "book_references": [],
+      "plot_data": "plot_data/figure_06.json"
+    },
+    {
+      "label": "Figure 7",
+      "caption": "Selected IPCC global mean sea level projections",
+      "book_pdf_page": 91,
+      "original_file": "figures/original/image10.png",
+      "original_sha256": "68ef15006f0e1bb09d0c4bd02bb8566cd4fdbf51415859f46d5973a8a3aecdce",
+      "equivalent_file": "figures/regenerated/figure_07_equivalent.png",
+      "equivalent_not_pixel_identical": true,
+      "status": "Assessed global scenario ranges",
+      "units": "Metres by 2100 relative to 1995-2014",
+      "book_references": [
+        21
+      ],
+      "plot_data": "plot_data/figure_07.json"
+    },
+    {
+      "label": "Figure 8",
+      "caption": "Cost components for two hypothetical routes",
+      "book_pdf_page": 99,
+      "original_file": "figures/original/image11.png",
+      "original_sha256": "44a47a318c6418ae1c977e9a0c223bfccf34c69f28f30abdae22ab6f83199075",
+      "equivalent_file": "figures/regenerated/figure_08_equivalent.png",
+      "equivalent_not_pixel_identical": true,
+      "status": "Author assumptions/calculated inventory",
+      "units": "US dollars per hypothetical container",
+      "book_references": [
+        12
+      ],
+      "plot_data": "plot_data/figure_08.json"
+    },
+    {
+      "label": "Figure 9",
+      "caption": "Inventory cost under hypothetical cargo values",
+      "book_pdf_page": 100,
+      "original_file": "figures/original/image12.png",
+      "original_sha256": "8a0388a2a87d5835ad4d0546649f0ac18bba2af338a94f539bbd8772fef917be",
+      "equivalent_file": "figures/regenerated/figure_09_equivalent.png",
+      "equivalent_not_pixel_identical": true,
+      "status": "Author assumptions/calculations",
+      "units": "US dollars versus additional days",
+      "book_references": [],
+      "plot_data": "plot_data/figure_09.json"
+    },
+    {
+      "label": "Figure 10",
+      "caption": "Traffic and savings required by a hypothetical project",
+      "book_pdf_page": 104,
+      "original_file": "figures/original/image13.png",
+      "original_sha256": "8229e57d7646b1e489a4571576defb3f91864ea26ad921c9b78d66aa0ad26494",
+      "equivalent_file": "figures/regenerated/figure_10_equivalent.png",
+      "equivalent_not_pixel_identical": true,
+      "status": "Author assumptions/calculations",
+      "units": "Million tonnes/year; US$ million/year",
+      "book_references": [],
+      "plot_data": "plot_data/figure_10.json"
+    },
+    {
+      "label": "Figure 11",
+      "caption": "Conditional timing of coastal benefits",
+      "book_pdf_page": 143,
+      "original_file": "figures/original/image15.png",
+      "original_sha256": "73e1fe027d7c4acc8a86d78af295f0164f1b338397ef7c4d655ce697a502a3e6",
+      "equivalent_file": "figures/regenerated/figure_11_equivalent.png",
+      "equivalent_not_pixel_identical": true,
+      "status": "Author conditional planning windows",
+      "units": "Years from enabling agreement and safe preparation access",
+      "book_references": [],
+      "plot_data": "plot_data/figure_11.json"
+    },
+    {
+      "label": "Figure 12",
+      "caption": "A conceptual coastal settlement",
+      "book_pdf_page": 149,
+      "original_file": "figures/original/image16.png",
+      "original_sha256": "a87ef3233c75aa97f22fa584cb8ace2dafb903077bcb15bac857454a90148838",
+      "equivalent_file": "figures/regenerated/figure_12_equivalent.png",
+      "equivalent_not_pixel_identical": true,
+      "status": "Author conceptual schematic",
+      "units": "No location, physical scale or fixed buffers",
+      "book_references": [
+        41,
+        45,
+        64
+      ],
+      "plot_data": "plot_data/figure_12.json"
+    },
+    {
+      "label": "Figure 13",
+      "caption": "Annual real growth in Ethiopia and five partners",
+      "book_pdf_page": 154,
+      "original_file": "figures/original/image17.png",
+      "original_sha256": "0fe4215b75f4f2c376532e62686ccc09d185e8e825646b24a70f5bfa87f4b260",
+      "equivalent_file": "figures/regenerated/figure_13_equivalent.png",
+      "equivalent_not_pixel_identical": true,
+      "status": "Historical GDP transformations",
+      "units": "Annual percent growth of constant-2015-dollar GDP",
+      "book_references": [
+        47
+      ],
+      "plot_data": "plot_data/figure_13.json"
+    },
+    {
+      "label": "Figure 14",
+      "caption": "Additional annual regional production under three scenarios",
+      "book_pdf_page": 158,
+      "original_file": "figures/original/image18.png",
+      "original_sha256": "cecba195a1cbc18d3fcbbd1765cafe9f00bd023132b2609b59acf61d239ac5e8",
+      "equivalent_file": "figures/regenerated/figure_14_equivalent.png",
+      "equivalent_not_pixel_identical": true,
+      "status": "Author conditional accounting illustration",
+      "units": "Constant 2026 US$ million/year at Operating Year 10",
+      "book_references": [],
+      "plot_data": "plot_data/figure_14.json"
+    }
+  ],
+  "excluded_superseded_images": [
+    "image2.png (old Figure 1)",
+    "image14.png (old Figure 11)"
+  ],
+  "originals": "Byte-identical current PNGs extracted from the authorized source companion ZIP. The manuscript is not included.",
+  "regeneration": "Equivalent public companion illustrations; numbers/concepts checked, no claim of pixel-identical production recovery."
+}

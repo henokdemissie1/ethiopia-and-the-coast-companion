@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "Please cite this version of the data and analysis companion. Component licenses are explained in LICENSE.md and THIRD_PARTY_NOTICES.md."
+type: dataset
+title: "Ethiopia and the Coast: Data and Analysis Companion — First Edition, v1.0"
+authors:
+  - family-names: "Kefelegn"
+    given-names: "Henok"
+version: "1.0"
+date-released: "2026-10-27"
+doi: "10.5281/zenodo.23698701"
+url: "https://github.com/henokdemissie1/ethiopia-and-the-coast-companion"
+repository-code: "https://github.com/henokdemissie1/ethiopia-and-the-coast-companion"
+abstract: "Dated public statistical observations, explicitly hypothetical teaching scenarios, calculation scripts, fifteen baseline tables, fourteen figures and two orientation maps accompanying the 27 October 2026 prepublication manuscript baseline of Ethiopia and the Coast. These materials are not a site-specific feasibility study or an estimate of a causal maritime-access effect. Author data and documentation use CC BY 4.0; original code uses MIT. Third-party data retain their stated terms."
+keywords:
+  - Ethiopia
+  - coastal engineering
+  - port development
+  - transport economics
+  - reproducible analysis

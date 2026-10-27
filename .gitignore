@@ -1,0 +1,26 @@
+# Local environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*~
+
+# Credentials and local-only configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local package/build scratch (release outputs are intentionally retained)
+tmp/
+temp/
+build/
+dist/

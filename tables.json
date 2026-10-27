@@ -1,0 +1,568 @@
+{
+  "label": "Machine-readable tables for the prepublication companion baseline; comparison values, not independent evidence for assumptions.",
+  "version": "1.0",
+  "baseline_date": "2026-10-27",
+  "book_status": "Prepublication; this is not a finalized book edition.",
+  "table_count": 15,
+  "tables": [
+    [
+      [
+        "Period",
+        "Milestone"
+      ],
+      [
+        "First centuries CE",
+        "Aksum participates in Red Sea and wider exchange"
+      ],
+      [
+        "Fourth century",
+        "Christianity established in Aksum under Ezana"
+      ],
+      [
+        "1890",
+        "Italian colony of Eritrea proclaimed"
+      ],
+      [
+        "1896",
+        "Ethiopian victory at Adwa"
+      ],
+      [
+        "1950 and 1952",
+        "UN federation resolution and subsequent federation"
+      ],
+      [
+        "1962",
+        "Federation ended and Eritrea annexed"
+      ],
+      [
+        "1993",
+        "Referendum and independence; Ethiopian commercial use of Eritrean ports continues"
+      ],
+      [
+        "1998 and 2000",
+        "Port-cargo movements end during the 1998 conflict; Algiers Agreement follows in 2000"
+      ],
+      [
+        "2018 and 2024",
+        "Ethiopia-Eritrea peace declaration; later Ankara Declaration on Ethiopia-Somalia cooperation"
+      ]
+    ],
+    [
+      [
+        "Year",
+        "Populationmillion",
+        "ImportsUS$ billion",
+        "ExportsUS$ billion"
+      ],
+      [
+        "1993",
+        "53.71",
+        "0.787",
+        "0.199"
+      ],
+      [
+        "2000",
+        "67.41",
+        "1.260",
+        "0.486"
+      ],
+      [
+        "2010",
+        "90.54",
+        "8.602",
+        "2.330"
+      ],
+      [
+        "2020",
+        "118.92",
+        "13.115",
+        "3.258"
+      ],
+      [
+        "2023",
+        "128.69",
+        "17.251",
+        "3.468"
+      ],
+      [
+        "2024",
+        "132.06",
+        "18.605",
+        "5.472"
+      ],
+      [
+        "2025",
+        "135.47",
+        "23.012",
+        "7.585"
+      ]
+    ],
+    [
+      [
+        "Study area",
+        "Evidence to obtain",
+        "Decision informed"
+      ],
+      [
+        "Demand",
+        "Commodity flows and shipper commitments",
+        "Cargo types and phasing"
+      ],
+      [
+        "Navigation",
+        "Bathymetry tides waves and vessel simulations",
+        "Safe approach and draft"
+      ],
+      [
+        "Structures",
+        "Inspections boreholes and load tests",
+        "Rehabilitation or replacement"
+      ],
+      [
+        "Inland network",
+        "Alignment surveys and truck cycle records",
+        "Road rail and border capacity"
+      ],
+      [
+        "Communities",
+        "Direct consultation and livelihood baseline",
+        "Alignment and benefit sharing"
+      ],
+      [
+        "Environment",
+        "Habitat sediment and water baseline",
+        "Footprint and safeguards"
+      ],
+      [
+        "Finance and law",
+        "Cost estimates terms and authorized agreements",
+        "Fiscal exposure and investment rights"
+      ]
+    ],
+    [
+      [
+        "Hazard",
+        "Operational concern",
+        "Study and response"
+      ],
+      [
+        "Sea level and extremes",
+        "Flooded equipment and access",
+        "Local water levels and adaptable elevations"
+      ],
+      [
+        "Waves",
+        "Unsafe berthing and stoppages",
+        "Wave studies and downtime modeling"
+      ],
+      [
+        "Sediment",
+        "Reduced depth and dredging cost",
+        "Transport modeling and maintenance plan"
+      ],
+      [
+        "Heat",
+        "Worker and equipment stress",
+        "Heat protocols and utility assessment"
+      ],
+      [
+        "Inland flooding",
+        "Road closure and drainage failure",
+        "Catchment studies and crossings"
+      ],
+      [
+        "Ecological change",
+        "Damage to fisheries and habitat",
+        "Baseline monitoring and impact avoidance"
+      ]
+    ],
+    [
+      [
+        "Cost per container",
+        "Route AUS$",
+        "Route BUS$"
+      ],
+      [
+        "Ocean freight",
+        "1,800.00",
+        "1,850.00"
+      ],
+      [
+        "Port and documents",
+        "400.00",
+        "450.00"
+      ],
+      [
+        "Inland transport",
+        "1,000.00",
+        "800.00"
+      ],
+      [
+        "Border cost",
+        "120.00",
+        "140.00"
+      ],
+      [
+        "Inventory financing",
+        "197.26",
+        "138.08"
+      ],
+      [
+        "Expected disruption",
+        "60.00",
+        "80.00"
+      ],
+      [
+        "Total",
+        "3,577.26",
+        "3,458.08"
+      ]
+    ],
+    [
+      [
+        "Trafficmillion t",
+        "US$10/tnet US$m",
+        "US$20/tnet US$m",
+        "US$40/tnet US$m"
+      ],
+      [
+        "2",
+        "-150.52",
+        "-130.52",
+        "-90.52"
+      ],
+      [
+        "5",
+        "-120.52",
+        "-70.52",
+        "+29.48"
+      ],
+      [
+        "10",
+        "-70.52",
+        "+29.48",
+        "+229.48"
+      ]
+    ],
+    [
+      [
+        "Assumedrate",
+        "Annual costUS$ million",
+        "Break even trafficmillion tonnes"
+      ],
+      [
+        "4%",
+        "126.02",
+        "6.30"
+      ],
+      [
+        "8%",
+        "170.52",
+        "8.53"
+      ],
+      [
+        "12%",
+        "221.25",
+        "11.06"
+      ]
+    ],
+    [
+      [
+        "Gateway",
+        "Useful comparison",
+        "Evidence still needed"
+      ],
+      [
+        "Djibouti",
+        "Established Ethiopian trade system",
+        "Comparable shipment costs and service intervals"
+      ],
+      [
+        "Assab",
+        "Potential northern alternative",
+        "Current surveys consent demand and full costs"
+      ],
+      [
+        "Mombasa",
+        "Regional hinterland coordination",
+        "Origin-specific route border and handling costs"
+      ],
+      [
+        "Singapore",
+        "Transshipment and service organization",
+        "Which practices fit a different scale and function"
+      ],
+      [
+        "Berbera",
+        "Expansion and alternative connectivity",
+        "Real throughput shipping services and corridor access"
+      ]
+    ],
+    [
+      [
+        "Indicator",
+        "Proposed definition",
+        "Interpretation"
+      ],
+      [
+        "Delivered cost",
+        "Comparable cost per shipment or tonne",
+        "Track median and distribution by commodity"
+      ],
+      [
+        "Reliability",
+        "Transit percentiles and exception rates",
+        "Report sample size and service calendar"
+      ],
+      [
+        "Dwell time",
+        "Time from terminal arrival to release",
+        "Separate cause and responsible process"
+      ],
+      [
+        "Fiscal exposure",
+        "Public support guarantees and maintenance",
+        "Record commitments as well as payments"
+      ],
+      [
+        "Local benefit",
+        "Sustained jobs procurement and livelihoods",
+        "Verify duration quality and distribution"
+      ],
+      [
+        "Environment",
+        "Water habitat sediment and incident measures",
+        "Compare with an agreed baseline"
+      ],
+      [
+        "Access",
+        "Availability and terms of authorized service",
+        "Test usable capacity rather than promises"
+      ]
+    ],
+    [
+      [
+        "Component",
+        "Low",
+        "Central",
+        "High"
+      ],
+      [
+        "Preparation and institutional setup",
+        "50",
+        "80",
+        "100"
+      ],
+      [
+        "Terminal and marine access",
+        "450",
+        "650",
+        "900"
+      ],
+      [
+        "Priority corridor and logistics links",
+        "350",
+        "500",
+        "800"
+      ],
+      [
+        "Power water sanitation and communications",
+        "180",
+        "250",
+        "400"
+      ],
+      [
+        "Worker housing public services and training",
+        "160",
+        "180",
+        "300"
+      ],
+      [
+        "Subtotal",
+        "1,190.0",
+        "1,660.0",
+        "2,500.0"
+      ],
+      [
+        "Contingency",
+        "297.5",
+        "415.0",
+        "625.0"
+      ],
+      [
+        "Total",
+        "1,487.5",
+        "2,075.0",
+        "3,125.0"
+      ]
+    ],
+    [
+      [
+        "Scale",
+        "Capital",
+        "Conditional time"
+      ],
+      [
+        "Minimum useful opening",
+        "US$0.4-0.9 billion",
+        "Essential service in 1-3 years with existing usable assets"
+      ],
+      [
+        "Commercial hub",
+        "US$1.5-3.1 billion",
+        "Core works in 3-6 years; dependable hub in 5-8"
+      ],
+      [
+        "Hub and urban expansion",
+        "US$2.5-5.6 billion",
+        "Successive phases over 10-20 years"
+      ]
+    ],
+    [
+      [
+        "Cluster",
+        "Anchor jobs",
+        "All assumed jobs",
+        "Additional residents"
+      ],
+      [
+        "Small cluster",
+        "5,000",
+        "8,750",
+        "16,333"
+      ],
+      [
+        "Medium cluster",
+        "15,000",
+        "30,000",
+        "56,000"
+      ],
+      [
+        "Large cluster",
+        "30,000",
+        "67,500",
+        "126,000"
+      ]
+    ],
+    [
+      [
+        "Comparison with Ethiopia",
+        "Years",
+        "Pearson r"
+      ],
+      [
+        "Djibouti",
+        "11",
+        "+0.62"
+      ],
+      [
+        "Kenya",
+        "11",
+        "-0.02"
+      ],
+      [
+        "Uganda",
+        "11",
+        "+0.17"
+      ],
+      [
+        "Tanzania",
+        "11",
+        "+0.78"
+      ],
+      [
+        "Rwanda",
+        "11",
+        "+0.01"
+      ],
+      [
+        "Five partner aggregate",
+        "11",
+        "+0.26"
+      ],
+      [
+        "Aggregate without 2020",
+        "10",
+        "-0.15"
+      ]
+    ],
+    [
+      [
+        "Value added component",
+        "Limited",
+        "Central",
+        "Strong"
+      ],
+      [
+        "Ethiopia productivity",
+        "30.0",
+        "140.0",
+        "480.0"
+      ],
+      [
+        "Ethiopia industry",
+        "75.0",
+        "350.0",
+        "900.0"
+      ],
+      [
+        "Ethiopia total GDP",
+        "105.0",
+        "490.0",
+        "1,380.0"
+      ],
+      [
+        "Other supplier value added",
+        "4.0",
+        "18.9",
+        "53.1"
+      ],
+      [
+        "Other net logistics",
+        "6.0",
+        "30.0",
+        "75.0"
+      ],
+      [
+        "Other industry",
+        "30.0",
+        "105.0",
+        "315.0"
+      ],
+      [
+        "Other regional total GDP",
+        "40.0",
+        "153.9",
+        "443.1"
+      ],
+      [
+        "Combined annual GDP",
+        "145.0",
+        "643.9",
+        "1,823.1"
+      ]
+    ],
+    [
+      [
+        "Participation case",
+        "Total US$ million",
+        "Hub capital share"
+      ],
+      [
+        "Modest",
+        "US$15",
+        "0.7%"
+      ],
+      [
+        "Central",
+        "US$100",
+        "4.8%"
+      ],
+      [
+        "Strong",
+        "US$400",
+        "19.3%"
+      ]
+    ]
+  ]
+}
