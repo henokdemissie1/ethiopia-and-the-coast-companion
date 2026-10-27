@@ -1,0 +1,31 @@
+{
+  "figure": 6,
+  "status": "Author schematic and separate arithmetic assumptions",
+  "units": {
+    "value_m": "metres; teaching assumptions, not drawn dimensions"
+  },
+  "sources": [],
+  "assumptions": {
+    "not_to_scale": true,
+    "depth_arithmetic_total_m": 16.2,
+    "datum_water_level_other_allowances_not_included": true
+  },
+  "rows": [
+    {
+      "term": "hypothetical vessel draft",
+      "value_m": 14
+    },
+    {
+      "term": "speed-effect allowance",
+      "value_m": 0.7
+    },
+    {
+      "term": "motion allowance",
+      "value_m": 0.5
+    },
+    {
+      "term": "remaining clearance allowance",
+      "value_m": 1
+    }
+  ]
+}

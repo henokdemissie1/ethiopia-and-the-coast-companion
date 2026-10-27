@@ -1,0 +1,41 @@
+{
+  "figure": 12,
+  "status": "Author conceptual settlement diagram",
+  "units": {},
+  "sources": [
+    41,
+    45,
+    64
+  ],
+  "assumptions": {
+    "not_to_scale": true,
+    "no_fixed_buffer": true,
+    "not_a_new_city_location": true
+  },
+  "rows": [
+    {
+      "element": "Existing neighborhoods",
+      "role": "Tenure, livelihoods and affordable services"
+    },
+    {
+      "element": "Schools, clinic and market",
+      "role": "Training, civic life and shaded walking routes"
+    },
+    {
+      "element": "Logistics and industry",
+      "role": "Freight access and studied risk buffers"
+    },
+    {
+      "element": "Incremental housing",
+      "role": "Serviced plots and room to grow"
+    },
+    {
+      "element": "Water and electricity",
+      "role": "Treatment, reuse, backup and reliability"
+    },
+    {
+      "element": "Transport reservation",
+      "role": "Road connections; rail after appraisal"
+    }
+  ]
+}

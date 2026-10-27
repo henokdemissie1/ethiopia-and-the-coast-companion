@@ -1,0 +1,53 @@
+{
+  "figure": 1,
+  "status": "Dated historical selection; not an event-frequency dataset",
+  "units": {
+    "year": "calendar year"
+  },
+  "sources": [
+    3,
+    4,
+    5,
+    9,
+    32,
+    73,
+    76
+  ],
+  "assumptions": {
+    "event_spacing": "equal, not elapsed-time proportional"
+  },
+  "rows": [
+    {
+      "year": 1950,
+      "milestone": "UN federation resolution"
+    },
+    {
+      "year": 1952,
+      "milestone": "Federation takes effect"
+    },
+    {
+      "year": 1962,
+      "milestone": "Federation ends; Eritrea incorporated into Ethiopia"
+    },
+    {
+      "year": 1993,
+      "milestone": "Eritrean independence; Ethiopian port use continues"
+    },
+    {
+      "year": 1998,
+      "milestone": "Assab cargo movements end during interstate conflict"
+    },
+    {
+      "year": 2000,
+      "milestone": "Algiers Agreement"
+    },
+    {
+      "year": 2018,
+      "milestone": "Ethiopia-Eritrea peace and friendship declaration"
+    },
+    {
+      "year": 2024,
+      "milestone": "Ethiopia-Somalia Ankara Declaration"
+    }
+  ]
+}

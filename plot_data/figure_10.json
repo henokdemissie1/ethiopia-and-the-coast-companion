@@ -1,0 +1,314 @@
+{
+  "figure": 10,
+  "status": "Author investment appraisal assumptions",
+  "units": {
+    "traffic_million_tonnes": "million tonnes/year",
+    "saving_usd_per_tonne": "US dollars/tonne",
+    "net_annual_usd_million": "US$ million/year"
+  },
+  "sources": [],
+  "assumptions": {
+    "capital_usd_million": 1500,
+    "economic_discount_rate": 0.08,
+    "years": 25,
+    "annual_om_usd_million": 30,
+    "capital_time_zero": true,
+    "residual_value": 0,
+    "ramp_up": false,
+    "threshold_traffic_million_tonnes": {
+      "10": 17.051816857795227,
+      "20": 8.525908428897614,
+      "40": 4.262954214448807
+    }
+  },
+  "rows": [
+    {
+      "traffic_million_tonnes": 0,
+      "saving_usd_per_tonne": 10,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -170.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 1,
+      "saving_usd_per_tonne": 10,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -160.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 2,
+      "saving_usd_per_tonne": 10,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -150.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 3,
+      "saving_usd_per_tonne": 10,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -140.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 4,
+      "saving_usd_per_tonne": 10,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -130.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 5,
+      "saving_usd_per_tonne": 10,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -120.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 6,
+      "saving_usd_per_tonne": 10,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -110.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 7,
+      "saving_usd_per_tonne": 10,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -100.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 8,
+      "saving_usd_per_tonne": 10,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -90.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 9,
+      "saving_usd_per_tonne": 10,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -80.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 10,
+      "saving_usd_per_tonne": 10,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -70.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 11,
+      "saving_usd_per_tonne": 10,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -60.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 12,
+      "saving_usd_per_tonne": 10,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -50.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 13,
+      "saving_usd_per_tonne": 10,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -40.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 14,
+      "saving_usd_per_tonne": 10,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -30.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 15,
+      "saving_usd_per_tonne": 10,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -20.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 0,
+      "saving_usd_per_tonne": 20,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -170.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 1,
+      "saving_usd_per_tonne": 20,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -150.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 2,
+      "saving_usd_per_tonne": 20,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -130.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 3,
+      "saving_usd_per_tonne": 20,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -110.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 4,
+      "saving_usd_per_tonne": 20,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -90.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 5,
+      "saving_usd_per_tonne": 20,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -70.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 6,
+      "saving_usd_per_tonne": 20,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -50.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 7,
+      "saving_usd_per_tonne": 20,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -30.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 8,
+      "saving_usd_per_tonne": 20,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -10.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 9,
+      "saving_usd_per_tonne": 20,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": 9.48183142204772
+    },
+    {
+      "traffic_million_tonnes": 10,
+      "saving_usd_per_tonne": 20,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": 29.48183142204772
+    },
+    {
+      "traffic_million_tonnes": 11,
+      "saving_usd_per_tonne": 20,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": 49.48183142204772
+    },
+    {
+      "traffic_million_tonnes": 12,
+      "saving_usd_per_tonne": 20,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": 69.48183142204772
+    },
+    {
+      "traffic_million_tonnes": 13,
+      "saving_usd_per_tonne": 20,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": 89.48183142204772
+    },
+    {
+      "traffic_million_tonnes": 14,
+      "saving_usd_per_tonne": 20,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": 109.48183142204772
+    },
+    {
+      "traffic_million_tonnes": 15,
+      "saving_usd_per_tonne": 20,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": 129.48183142204772
+    },
+    {
+      "traffic_million_tonnes": 0,
+      "saving_usd_per_tonne": 40,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -170.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 1,
+      "saving_usd_per_tonne": 40,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -130.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 2,
+      "saving_usd_per_tonne": 40,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -90.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 3,
+      "saving_usd_per_tonne": 40,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -50.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 4,
+      "saving_usd_per_tonne": 40,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": -10.51816857795228
+    },
+    {
+      "traffic_million_tonnes": 5,
+      "saving_usd_per_tonne": 40,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": 29.48183142204772
+    },
+    {
+      "traffic_million_tonnes": 6,
+      "saving_usd_per_tonne": 40,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": 69.48183142204772
+    },
+    {
+      "traffic_million_tonnes": 7,
+      "saving_usd_per_tonne": 40,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": 109.48183142204772
+    },
+    {
+      "traffic_million_tonnes": 8,
+      "saving_usd_per_tonne": 40,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": 149.48183142204772
+    },
+    {
+      "traffic_million_tonnes": 9,
+      "saving_usd_per_tonne": 40,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": 189.48183142204772
+    },
+    {
+      "traffic_million_tonnes": 10,
+      "saving_usd_per_tonne": 40,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": 229.48183142204772
+    },
+    {
+      "traffic_million_tonnes": 11,
+      "saving_usd_per_tonne": 40,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": 269.4818314220477
+    },
+    {
+      "traffic_million_tonnes": 12,
+      "saving_usd_per_tonne": 40,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": 309.4818314220477
+    },
+    {
+      "traffic_million_tonnes": 13,
+      "saving_usd_per_tonne": 40,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": 349.4818314220477
+    },
+    {
+      "traffic_million_tonnes": 14,
+      "saving_usd_per_tonne": 40,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": 389.4818314220477
+    },
+    {
+      "traffic_million_tonnes": 15,
+      "saving_usd_per_tonne": 40,
+      "annual_equivalent_cost_usd_million": 170.51816857795228,
+      "net_annual_usd_million": 429.4818314220477
+    }
+  ]
+}

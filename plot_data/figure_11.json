@@ -1,0 +1,42 @@
+{
+  "figure": 11,
+  "status": "Author conditional planning windows",
+  "units": {
+    "start": "years from preparation authorization",
+    "end": "years from preparation authorization"
+  },
+  "sources": [],
+  "assumptions": {
+    "existing_usable_assets_required_for_early_service": true,
+    "preparation_clock": "enabling agreement and safe access",
+    "operating_clock": "dependable commercial service starts later",
+    "site_specific_schedule": false
+  },
+  "rows": [
+    {
+      "phase": "Limited additional cargo service",
+      "start": 0.5,
+      "end": 1.5
+    },
+    {
+      "phase": "Priority roads, yards, utilities and training",
+      "start": 2,
+      "end": 5
+    },
+    {
+      "phase": "Substantial terminal expansion",
+      "start": 3,
+      "end": 6
+    },
+    {
+      "phase": "Industrial and household effects",
+      "start": 5,
+      "end": 10
+    },
+    {
+      "phase": "Mature coastal urban economy",
+      "start": 10,
+      "end": 20
+    }
+  ]
+}

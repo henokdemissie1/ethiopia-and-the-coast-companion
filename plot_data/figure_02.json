@@ -1,0 +1,35 @@
+{
+  "figure": 2,
+  "status": "Author conceptual diagram",
+  "units": {},
+  "sources": [],
+  "assumptions": {
+    "geographic_route": false
+  },
+  "rows": [
+    {
+      "sequence": 1,
+      "stage": "Farm or factory"
+    },
+    {
+      "sequence": 2,
+      "stage": "Dry port and customs"
+    },
+    {
+      "sequence": 3,
+      "stage": "Road or rail"
+    },
+    {
+      "sequence": 4,
+      "stage": "Coastal terminal"
+    },
+    {
+      "sequence": 5,
+      "stage": "Ocean service"
+    },
+    {
+      "sequence": 6,
+      "stage": "Overseas buyer"
+    }
+  ]
+}

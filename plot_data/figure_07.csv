@@ -1,0 +1,4 @@
+scenario,description,low_m,high_m
+SSP1-1.9,Very low emissions,0.28,0.55
+SSP2-4.5,Intermediate emissions,0.44,0.76
+SSP5-8.5,Very high emissions,0.63,1.01

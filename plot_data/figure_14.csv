@@ -1,0 +1,4 @@
+scenario,traffic_million_tonnes,saving_usd_per_tonne,productivity_capture,ethiopian_additional_private_capital_usd_million,ethiopian_value_added_to_capital_ratio,other_logistics_value_added_usd_per_tonne,other_additional_private_capital_usd_million,other_value_added_to_capital_ratio,ethiopia_productivity_usd_million,ethiopia_industry_usd_million,ethiopia_total_usd_million,other_supplier_usd_million,other_logistics_usd_million,other_industry_usd_million,other_total_usd_million,combined_total_usd_million
+Limited,6,10,0.5,300,0.25,1,100,0.3,30.0,75.0,105.0,4.0425,6,30.0,40.042500000000004,145.04250000000002
+Central,10,20,0.7,1000,0.35,3,300,0.35,140.0,350.0,490.0,18.865000000000006,30,105.0,153.865,643.865
+Strong,15,40,0.8,2000,0.45,5,700,0.45,480.0,900.0,1380.0,53.13,75,315.0,443.13,1823.13

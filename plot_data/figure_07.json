@@ -1,0 +1,36 @@
+{
+  "figure": 7,
+  "status": "Assessed global scenario ranges, not observations",
+  "units": {
+    "low_m": "metres",
+    "high_m": "metres"
+  },
+  "sources": [
+    21
+  ],
+  "assumptions": {
+    "year": 2100,
+    "reference_period": "1995-2014",
+    "likely_range_not_physical_maximum": true
+  },
+  "rows": [
+    {
+      "scenario": "SSP1-1.9",
+      "description": "Very low emissions",
+      "low_m": 0.28,
+      "high_m": 0.55
+    },
+    {
+      "scenario": "SSP2-4.5",
+      "description": "Intermediate emissions",
+      "low_m": 0.44,
+      "high_m": 0.76
+    },
+    {
+      "scenario": "SSP5-8.5",
+      "description": "Very high emissions",
+      "low_m": 0.63,
+      "high_m": 1.01
+    }
+  ]
+}

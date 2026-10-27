@@ -1,0 +1,185 @@
+{
+  "figure": 3,
+  "status": "Archived WDI estimates, not a cargo forecast",
+  "units": {
+    "population_people": "people, midyear estimates",
+    "population_million": "million people"
+  },
+  "sources": [
+    13
+  ],
+  "assumptions": {
+    "years": [
+      1993,
+      2025
+    ],
+    "api_lastupdated": "2026-10-08"
+  },
+  "rows": [
+    {
+      "year": 1993,
+      "population_people": 53708891,
+      "population_million": 53.708891
+    },
+    {
+      "year": 1994,
+      "population_people": 55611508,
+      "population_million": 55.611508
+    },
+    {
+      "year": 1995,
+      "population_people": 57537335,
+      "population_million": 57.537335
+    },
+    {
+      "year": 1996,
+      "population_people": 59467635,
+      "population_million": 59.467635
+    },
+    {
+      "year": 1997,
+      "population_people": 61404539,
+      "population_million": 61.404539
+    },
+    {
+      "year": 1998,
+      "population_people": 63363524,
+      "population_million": 63.363524
+    },
+    {
+      "year": 1999,
+      "population_people": 65374561,
+      "population_million": 65.374561
+    },
+    {
+      "year": 2000,
+      "population_people": 67411494,
+      "population_million": 67.411494
+    },
+    {
+      "year": 2001,
+      "population_people": 69487762,
+      "population_million": 69.487762
+    },
+    {
+      "year": 2002,
+      "population_people": 71635517,
+      "population_million": 71.635517
+    },
+    {
+      "year": 2003,
+      "population_people": 73832663,
+      "population_million": 73.832663
+    },
+    {
+      "year": 2004,
+      "population_people": 76077206,
+      "population_million": 76.077206
+    },
+    {
+      "year": 2005,
+      "population_people": 78367470,
+      "population_million": 78.36747
+    },
+    {
+      "year": 2006,
+      "population_people": 80703490,
+      "population_million": 80.70349
+    },
+    {
+      "year": 2007,
+      "population_people": 83103217,
+      "population_million": 83.103217
+    },
+    {
+      "year": 2008,
+      "population_people": 85543668,
+      "population_million": 85.543668
+    },
+    {
+      "year": 2009,
+      "population_people": 88007636,
+      "population_million": 88.007636
+    },
+    {
+      "year": 2010,
+      "population_people": 90538514,
+      "population_million": 90.538514
+    },
+    {
+      "year": 2011,
+      "population_people": 93149970,
+      "population_million": 93.14997
+    },
+    {
+      "year": 2012,
+      "population_people": 95798767,
+      "population_million": 95.798767
+    },
+    {
+      "year": 2013,
+      "population_people": 98438751,
+      "population_million": 98.438751
+    },
+    {
+      "year": 2014,
+      "population_people": 101115610,
+      "population_million": 101.11561
+    },
+    {
+      "year": 2015,
+      "population_people": 103867135,
+      "population_million": 103.867135
+    },
+    {
+      "year": 2016,
+      "population_people": 106718162,
+      "population_million": 106.718162
+    },
+    {
+      "year": 2017,
+      "population_people": 109666481,
+      "population_million": 109.666481
+    },
+    {
+      "year": 2018,
+      "population_people": 112664152,
+      "population_million": 112.664152
+    },
+    {
+      "year": 2019,
+      "population_people": 115737383,
+      "population_million": 115.737383
+    },
+    {
+      "year": 2020,
+      "population_people": 118917671,
+      "population_million": 118.917671
+    },
+    {
+      "year": 2021,
+      "population_people": 122138588,
+      "population_million": 122.138588
+    },
+    {
+      "year": 2022,
+      "population_people": 125384287,
+      "population_million": 125.384287
+    },
+    {
+      "year": 2023,
+      "population_people": 128691692,
+      "population_million": 128.691692
+    },
+    {
+      "year": 2024,
+      "population_people": 132059767,
+      "population_million": 132.059767
+    },
+    {
+      "year": 2025,
+      "population_people": 135472051,
+      "population_million": 135.472051
+    }
+  ]
+}

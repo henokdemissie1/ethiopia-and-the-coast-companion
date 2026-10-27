@@ -1,0 +1,247 @@
+{
+  "figure": 4,
+  "status": "Archived WDI/WTO merchandise values; not cargo tonnes or inflation-adjusted growth",
+  "units": {
+    "imports_current_usd": "current US dollars",
+    "exports_current_usd": "current US dollars",
+    "chart_scale": "US$ billion"
+  },
+  "sources": [
+    14,
+    15
+  ],
+  "assumptions": {},
+  "rows": [
+    {
+      "year": 1993,
+      "imports_current_usd": 787000000,
+      "exports_current_usd": 199000000,
+      "imports_usd_billion": 0.787,
+      "exports_usd_billion": 0.199
+    },
+    {
+      "year": 1994,
+      "imports_current_usd": 1033000000,
+      "exports_current_usd": 372000000,
+      "imports_usd_billion": 1.033,
+      "exports_usd_billion": 0.372
+    },
+    {
+      "year": 1995,
+      "imports_current_usd": 1145000000,
+      "exports_current_usd": 422000000,
+      "imports_usd_billion": 1.145,
+      "exports_usd_billion": 0.422
+    },
+    {
+      "year": 1996,
+      "imports_current_usd": 1401000000,
+      "exports_current_usd": 417000000,
+      "imports_usd_billion": 1.401,
+      "exports_usd_billion": 0.417
+    },
+    {
+      "year": 1997,
+      "imports_current_usd": 1113000000,
+      "exports_current_usd": 587000000,
+      "imports_usd_billion": 1.113,
+      "exports_usd_billion": 0.587
+    },
+    {
+      "year": 1998,
+      "imports_current_usd": 1517000000,
+      "exports_current_usd": 561000000,
+      "imports_usd_billion": 1.517,
+      "exports_usd_billion": 0.561
+    },
+    {
+      "year": 1999,
+      "imports_current_usd": 1538000000,
+      "exports_current_usd": 467000000,
+      "imports_usd_billion": 1.538,
+      "exports_usd_billion": 0.467
+    },
+    {
+      "year": 2000,
+      "imports_current_usd": 1260000000,
+      "exports_current_usd": 486000000,
+      "imports_usd_billion": 1.26,
+      "exports_usd_billion": 0.486
+    },
+    {
+      "year": 2001,
+      "imports_current_usd": 1811000000,
+      "exports_current_usd": 455000000,
+      "imports_usd_billion": 1.811,
+      "exports_usd_billion": 0.455
+    },
+    {
+      "year": 2002,
+      "imports_current_usd": 1594000000,
+      "exports_current_usd": 480000000,
+      "imports_usd_billion": 1.594,
+      "exports_usd_billion": 0.48
+    },
+    {
+      "year": 2003,
+      "imports_current_usd": 2686000000,
+      "exports_current_usd": 496000000,
+      "imports_usd_billion": 2.686,
+      "exports_usd_billion": 0.496
+    },
+    {
+      "year": 2004,
+      "imports_current_usd": 2874000000,
+      "exports_current_usd": 678000000,
+      "imports_usd_billion": 2.874,
+      "exports_usd_billion": 0.678
+    },
+    {
+      "year": 2005,
+      "imports_current_usd": 4095000000,
+      "exports_current_usd": 903000000,
+      "imports_usd_billion": 4.095,
+      "exports_usd_billion": 0.903
+    },
+    {
+      "year": 2006,
+      "imports_current_usd": 5207000000,
+      "exports_current_usd": 1043000000,
+      "imports_usd_billion": 5.207,
+      "exports_usd_billion": 1.043
+    },
+    {
+      "year": 2007,
+      "imports_current_usd": 5809000000,
+      "exports_current_usd": 1277000000,
+      "imports_usd_billion": 5.809,
+      "exports_usd_billion": 1.277
+    },
+    {
+      "year": 2008,
+      "imports_current_usd": 8277000000,
+      "exports_current_usd": 1602000000,
+      "imports_usd_billion": 8.277,
+      "exports_usd_billion": 1.602
+    },
+    {
+      "year": 2009,
+      "imports_current_usd": 7668000000,
+      "exports_current_usd": 1618000000,
+      "imports_usd_billion": 7.668,
+      "exports_usd_billion": 1.618
+    },
+    {
+      "year": 2010,
+      "imports_current_usd": 8602000000,
+      "exports_current_usd": 2330000000,
+      "imports_usd_billion": 8.602,
+      "exports_usd_billion": 2.33
+    },
+    {
+      "year": 2011,
+      "imports_current_usd": 8896000000,
+      "exports_current_usd": 2875000000,
+      "imports_usd_billion": 8.896,
+      "exports_usd_billion": 2.875
+    },
+    {
+      "year": 2012,
+      "imports_current_usd": 11913000000,
+      "exports_current_usd": 3370000000,
+      "imports_usd_billion": 11.913,
+      "exports_usd_billion": 3.37
+    },
+    {
+      "year": 2013,
+      "imports_current_usd": 12072000000,
+      "exports_current_usd": 2973000000,
+      "imports_usd_billion": 12.072,
+      "exports_usd_billion": 2.973
+    },
+    {
+      "year": 2014,
+      "imports_current_usd": 15357000000,
+      "exports_current_usd": 3275000000,
+      "imports_usd_billion": 15.357,
+      "exports_usd_billion": 3.275
+    },
+    {
+      "year": 2015,
+      "imports_current_usd": 16702000000,
+      "exports_current_usd": 2914000000,
+      "imports_usd_billion": 16.702,
+      "exports_usd_billion": 2.914
+    },
+    {
+      "year": 2016,
+      "imports_current_usd": 16429000000,
+      "exports_current_usd": 2789000000,
+      "imports_usd_billion": 16.429,
+      "exports_usd_billion": 2.789
+    },
+    {
+      "year": 2017,
+      "imports_current_usd": 15761000000,
+      "exports_current_usd": 3022000000,
+      "imports_usd_billion": 15.761,
+      "exports_usd_billion": 3.022
+    },
+    {
+      "year": 2018,
+      "imports_current_usd": 15305000000,
+      "exports_current_usd": 2704000000,
+      "imports_usd_billion": 15.305,
+      "exports_usd_billion": 2.704
+    },
+    {
+      "year": 2019,
+      "imports_current_usd": 14554000000,
+      "exports_current_usd": 2741000000,
+      "imports_usd_billion": 14.554,
+      "exports_usd_billion": 2.741
+    },
+    {
+      "year": 2020,
+      "imports_current_usd": 13115000000,
+      "exports_current_usd": 3258000000,
+      "imports_usd_billion": 13.115,
+      "exports_usd_billion": 3.258
+    },
+    {
+      "year": 2021,
+      "imports_current_usd": 15973000000,
+      "exports_current_usd": 3949000000,
+      "imports_usd_billion": 15.973,
+      "exports_usd_billion": 3.949
+    },
+    {
+      "year": 2022,
+      "imports_current_usd": 18663000000,
+      "exports_current_usd": 3970000000,
+      "imports_usd_billion": 18.663,
+      "exports_usd_billion": 3.97
+    },
+    {
+      "year": 2023,
+      "imports_current_usd": 17251000000,
+      "exports_current_usd": 3468000000,
+      "imports_usd_billion": 17.251,
+      "exports_usd_billion": 3.468
+    },
+    {
+      "year": 2024,
+      "imports_current_usd": 18605000000,
+      "exports_current_usd": 5472000000,
+      "imports_usd_billion": 18.605,
+      "exports_usd_billion": 5.472
+    },
+    {
+      "year": 2025,
+      "imports_current_usd": 23012000000,
+      "exports_current_usd": 7585000000,
+      "imports_usd_billion": 23.012,
+      "exports_usd_billion": 7.585
+    }
+  ]
+}

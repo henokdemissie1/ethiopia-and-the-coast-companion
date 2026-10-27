@@ -1,0 +1,76 @@
+{
+  "figure": 14,
+  "status": "Author conditional accounting assumptions; no empirically estimated access effect",
+  "units": {
+    "money": "constant 2026 US$ million per year unless a field states otherwise",
+    "capital": "constant 2026 US$ million",
+    "traffic": "million tonnes/year"
+  },
+  "sources": [],
+  "assumptions": {
+    "operating_year": 10,
+    "fixed_opening_date": false,
+    "supplier_fraction": 0.0385,
+    "additionality_required": true,
+    "may_not_be_added_to_transport_savings_or_used_to_close_infrastructure_deficit": true
+  },
+  "rows": [
+    {
+      "scenario": "Limited",
+      "traffic_million_tonnes": 6,
+      "saving_usd_per_tonne": 10,
+      "productivity_capture": 0.5,
+      "ethiopian_additional_private_capital_usd_million": 300,
+      "ethiopian_value_added_to_capital_ratio": 0.25,
+      "other_logistics_value_added_usd_per_tonne": 1,
+      "other_additional_private_capital_usd_million": 100,
+      "other_value_added_to_capital_ratio": 0.3,
+      "ethiopia_productivity_usd_million": 30.0,
+      "ethiopia_industry_usd_million": 75.0,
+      "ethiopia_total_usd_million": 105.0,
+      "other_supplier_usd_million": 4.0425,
+      "other_logistics_usd_million": 6,
+      "other_industry_usd_million": 30.0,
+      "other_total_usd_million": 40.042500000000004,
+      "combined_total_usd_million": 145.04250000000002
+    },
+    {
+      "scenario": "Central",
+      "traffic_million_tonnes": 10,
+      "saving_usd_per_tonne": 20,
+      "productivity_capture": 0.7,
+      "ethiopian_additional_private_capital_usd_million": 1000,
+      "ethiopian_value_added_to_capital_ratio": 0.35,
+      "other_logistics_value_added_usd_per_tonne": 3,
+      "other_additional_private_capital_usd_million": 300,
+      "other_value_added_to_capital_ratio": 0.35,
+      "ethiopia_productivity_usd_million": 140.0,
+      "ethiopia_industry_usd_million": 350.0,
+      "ethiopia_total_usd_million": 490.0,
+      "other_supplier_usd_million": 18.865000000000006,
+      "other_logistics_usd_million": 30,
+      "other_industry_usd_million": 105.0,
+      "other_total_usd_million": 153.865,
+      "combined_total_usd_million": 643.865
+    },
+    {
+      "scenario": "Strong",
+      "traffic_million_tonnes": 15,
+      "saving_usd_per_tonne": 40,
+      "productivity_capture": 0.8,
+      "ethiopian_additional_private_capital_usd_million": 2000,
+      "ethiopian_value_added_to_capital_ratio": 0.45,
+      "other_logistics_value_added_usd_per_tonne": 5,
+      "other_additional_private_capital_usd_million": 700,
+      "other_value_added_to_capital_ratio": 0.45,
+      "ethiopia_productivity_usd_million": 480.0,
+      "ethiopia_industry_usd_million": 900.0,
+      "ethiopia_total_usd_million": 1380.0,
+      "other_supplier_usd_million": 53.13,
+      "other_logistics_usd_million": 75,
+      "other_industry_usd_million": 315.0,
+      "other_total_usd_million": 443.13,
+      "combined_total_usd_million": 1823.13
+    }
+  ]
+}

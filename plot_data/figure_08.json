@@ -1,0 +1,52 @@
+{
+  "figure": 8,
+  "status": "Author hypothetical costs and calculated inventory",
+  "units": {
+    "route_A_usd": "US dollars per container",
+    "route_B_usd": "US dollars per container"
+  },
+  "sources": [
+    12
+  ],
+  "assumptions": {
+    "cargo_value_usd": 20000,
+    "annual_carrying_rate": 0.18,
+    "route_A_days": 20,
+    "route_B_days": 14,
+    "route_A_total_usd": 3577.2602739726026,
+    "route_B_total_usd": 3458.082191780822,
+    "A_minus_B_usd": 119.1780821917805
+  },
+  "rows": [
+    {
+      "component": "Ocean freight",
+      "route_A_usd": 1800,
+      "route_B_usd": 1850
+    },
+    {
+      "component": "Port and documents",
+      "route_A_usd": 400,
+      "route_B_usd": 450
+    },
+    {
+      "component": "Inland transport",
+      "route_A_usd": 1000,
+      "route_B_usd": 800
+    },
+    {
+      "component": "Border cost",
+      "route_A_usd": 120,
+      "route_B_usd": 140
+    },
+    {
+      "component": "Inventory financing",
+      "route_A_usd": 197.26027397260273,
+      "route_B_usd": 138.08219178082192
+    },
+    {
+      "component": "Expected disruption",
+      "route_A_usd": 60,
+      "route_B_usd": 80
+    }
+  ]
+}

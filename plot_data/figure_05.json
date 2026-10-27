@@ -1,0 +1,29 @@
+{
+  "figure": 5,
+  "status": "Author hypothetical scenarios",
+  "units": {
+    "concentration": "unitless sum of squared fractional shares"
+  },
+  "sources": [],
+  "assumptions": {
+    "formula": "sum(share**2)",
+    "all_shares_sum_to_one": true
+  },
+  "rows": [
+    {
+      "portfolio": "95 / 5",
+      "shares": "[0.95, 0.05]",
+      "concentration": 0.9049999999999999
+    },
+    {
+      "portfolio": "70 / 20 / 10",
+      "shares": "[0.7, 0.2, 0.1]",
+      "concentration": 0.5399999999999999
+    },
+    {
+      "portfolio": "60 / 25 / 15",
+      "shares": "[0.6, 0.25, 0.15]",
+      "concentration": 0.445
+    }
+  ]
+}
