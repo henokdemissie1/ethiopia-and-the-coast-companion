@@ -1,0 +1,101 @@
+{
+  "coordinate_reference": "Geographic longitude/latitude, degrees; approximate dataset positions",
+  "records": [
+    {
+      "name": "Mombasa",
+      "source_name": "MOMBASA",
+      "longitude": 39.666666666666664,
+      "latitude": -4.066666666666666,
+      "coordinate_order": "longitude, latitude",
+      "source_latitude_ddm": "0404S",
+      "source_longitude_ddm": "03940E",
+      "source": "NGA World Port Index, Publication 150, 27th edition, 2019",
+      "index_number": 47100,
+      "pdf_page": 157,
+      "printed_page": 130,
+      "source_url": "https://msi.nga.mil/api/publications/download?key=16694622%2FSFH00000%2FPub150bk.pdf&lang=en",
+      "book_reference": 89,
+      "use": "Approximate location only; no current operating, capacity or depth claim."
+    },
+    {
+      "name": "Berbera",
+      "source_name": "BERBERA",
+      "longitude": 45.016666666666666,
+      "latitude": 10.45,
+      "coordinate_order": "longitude, latitude",
+      "source_latitude_ddm": "1027N",
+      "source_longitude_ddm": "04501E",
+      "source": "NGA World Port Index, Publication 150, 27th edition, 2019",
+      "index_number": 47820,
+      "pdf_page": 159,
+      "printed_page": 132,
+      "source_url": "https://msi.nga.mil/api/publications/download?key=16694622%2FSFH00000%2FPub150bk.pdf&lang=en",
+      "book_reference": 89,
+      "use": "Approximate location only; no current operating, capacity or depth claim."
+    },
+    {
+      "name": "Djibouti",
+      "source_name": "DJIBOUTI",
+      "longitude": 43.13333333333333,
+      "latitude": 11.6,
+      "coordinate_order": "longitude, latitude",
+      "source_latitude_ddm": "1136N",
+      "source_longitude_ddm": "04308E",
+      "source": "NGA World Port Index, Publication 150, 27th edition, 2019",
+      "index_number": 47850,
+      "pdf_page": 159,
+      "printed_page": 132,
+      "source_url": "https://msi.nga.mil/api/publications/download?key=16694622%2FSFH00000%2FPub150bk.pdf&lang=en",
+      "book_reference": 89,
+      "use": "Approximate location only; no current operating, capacity or depth claim."
+    },
+    {
+      "name": "Assab",
+      "source_name": "ASSAB",
+      "longitude": 42.75,
+      "latitude": 13,
+      "coordinate_order": "longitude, latitude",
+      "source_latitude_ddm": "1300N",
+      "source_longitude_ddm": "04245E",
+      "source": "NGA World Port Index, Publication 150, 27th edition, 2019",
+      "index_number": 47880,
+      "pdf_page": 159,
+      "printed_page": 132,
+      "source_url": "https://msi.nga.mil/api/publications/download?key=16694622%2FSFH00000%2FPub150bk.pdf&lang=en",
+      "book_reference": 89,
+      "use": "Approximate location only; no current operating, capacity or depth claim."
+    },
+    {
+      "name": "Massawa",
+      "source_name": "MITSIWA HARBOR",
+      "longitude": 39.46666666666667,
+      "latitude": 15.616666666666667,
+      "coordinate_order": "longitude, latitude",
+      "source_latitude_ddm": "1537N",
+      "source_longitude_ddm": "03928E",
+      "source": "NGA World Port Index, Publication 150, 27th edition, 2019",
+      "index_number": 47900,
+      "pdf_page": 159,
+      "printed_page": 132,
+      "source_url": "https://msi.nga.mil/api/publications/download?key=16694622%2FSFH00000%2FPub150bk.pdf&lang=en",
+      "book_reference": 89,
+      "use": "Approximate location only; no current operating, capacity or depth claim."
+    },
+    {
+      "name": "Addis Ababa",
+      "longitude": 38.698059,
+      "latitude": 9.035256,
+      "coordinate_order": "longitude, latitude",
+      "source": "Natural Earth populated places simple, 1:50 million, version 5.1.2",
+      "source_url": "https://www.naturalearthdata.com/downloads/50m-cultural-vectors/50m-populated-places/",
+      "book_reference": 88,
+      "use": "General orientation; not a surveyed inland cargo origin."
+    }
+  ],
+  "coastline": {
+    "source": "Natural Earth 1:50 million coastline version 4.0.0",
+    "file": "map_data/ne_50m_coastline.shp",
+    "source_url": "https://www.naturalearthdata.com/downloads/50m-physical-vectors/50m-coastline/"
+  },
+  "map_scope": "Coastlines and selected locations; national boundaries omitted. Dotted lines are study/comparison axes, not road/rail/corridor alignments."
+}
