@@ -53,7 +53,7 @@ The preparation environment used Python 3.12.14 and Pillow 12.3.0. These version
 | `data/provenance/` and `SOURCE_QUERIES.json` | Documented retrieval/query provenance, including the recovered original GDP query manifest |
 | `tables.json` | Fifteen machine-readable baseline tables, retaining displayed rounding |
 | `companion_rows.json` | Unrounded rows for three hypothetical numerical examples |
-| `references.json`, `references.csv` | Eighty-nine numbered reference entries and source URLs |
+| `references.json`, `references.csv` | Ninety numbered reference entries and source URLs, including the companion self-citation [90] |
 | `map_data/` | Generalized geographic inputs; see source credits and the figure registry |
 | `figures/`, `plot_data/`, `tables/`, `results/` | Supplied visuals and reproducible outputs described above |
 
@@ -72,3 +72,13 @@ All scenario money uses constant 2026 US dollars as a price convention. Operatin
 World Development Indicators are credited to the World Bank and the underlying providers, including WTO for the two merchandise series and the providers identified in population and national-accounts metadata. Natural Earth and the World Port Index support generalized map geometry and approximate locations. Refer to [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) and [LICENSE.md](LICENSE.md) for component-specific terms. The companion does not relicense the book or the referenced publications.
 
 The archive excludes the full manuscript, unpublished review notes and superseded figures. Reference entries link to the original publications; their full texts are not bundled. See [CHANGELOG.md](CHANGELOG.md) for release scope. Future revisions should preserve v1.0 and document changed inputs or methods rather than overwrite its data vintage.
+
+
+## Dated illustration correction (27 October 2026)
+
+The v1.0 label is retained for the disclosed expansion of Figure 1 to the historical scope of Table 1 and Chapter 1 and addition of the companion self-citation [90]. Numerical data and scenario inputs are unchanged. See [CHANGELOG.md](CHANGELOG.md), [FIGURES.md](FIGURES.md), and [CORRECTIONS_2026_10_27.json](CORRECTIONS_2026_10_27.json) for the precise change and prior-artifact checksum.
+
+
+## Cite the corrected companion
+
+Kefelegn, Henok. Ethiopia and the Coast: Data and Analysis Companion. First Edition, v1.0. Zenodo, 2026. Correction issued 27 October 2026. https://doi.org/10.5281/zenodo.23698701

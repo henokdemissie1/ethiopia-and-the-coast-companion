@@ -1,6 +1,5 @@
 {
   "release": "v1.0",
-  "manuscript_sha256": "20c3614130cd14a21d29f92a5822e1441991c685f3fff46b8d2fc4ccea4e2ec5",
   "visual_count": 16,
   "numbered_figures": 14,
   "maps": 2,
@@ -26,21 +25,37 @@
       "caption": "Selected historical and diplomatic milestones",
       "book_pdf_page": 28,
       "original_file": "figures/original/image3.png",
-      "original_sha256": "9f9d6f87b76dff1aad90573a49c14375c2097a1279eeecb0e46d88980c1f2090",
+      "original_sha256": "2eeda43f49057ac94e6fe36a82a6529d52aa950cdf2ccf5edea6a0a63e657ba2",
       "equivalent_file": "figures/regenerated/figure_01_equivalent.png",
       "equivalent_not_pixel_identical": true,
-      "status": "Historical selection; equal spacing",
+      "status": "Historical selection expanded to ancient, colonial, federation, sovereignty and commercial-access milestones; not a proportional time scale.",
       "units": "Calendar years; spacing is not proportional",
       "book_references": [
+        1,
+        2,
         3,
         4,
         5,
         9,
         32,
+        33,
         73,
+        75,
         76
       ],
-      "plot_data": "plot_data/figure_01.json"
+      "plot_data": "plot_data/figure_01.json",
+      "event_input": "plot_data/figure_01_events.json",
+      "render": {
+        "pixels": [
+          1320,
+          1740
+        ],
+        "dpi": 300,
+        "intended_inches": [
+          4.4,
+          5.8
+        ]
+      }
     },
     {
       "label": "Figure 2",
@@ -247,6 +262,20 @@
     "image2.png (old Figure 1)",
     "image14.png (old Figure 11)"
   ],
-  "originals": "Byte-identical current PNGs extracted from the authorized source companion ZIP. The manuscript is not included.",
-  "regeneration": "Equivalent public companion illustrations; numbers/concepts checked, no claim of pixel-identical production recovery."
+  "originals": "Current book-baseline images, with the user-approved expanded Figure 1 replacement dated 27 October 2026. The other 15 original images are unchanged from the original public v1.0 artifact.",
+  "regeneration": "Equivalent public companion illustrations; numbers/concepts checked, no claim of pixel-identical production recovery.",
+  "correction_date": "2026-10-27",
+  "version_label_retained": "v1.0",
+  "page_locator_note": "Book-page locators describe the pre-correction reading baseline and may shift during final manuscript layout.",
+  "corrections": [
+    {
+      "label": "Figure 1",
+      "change": "Two-section chronology expanded to Table 1 and Chapter 1 scope; 16 dated entries/periods. No model or observed numerical data changed.",
+      "prior_original_sha256": "9f9d6f87b76dff1aad90573a49c14375c2097a1279eeecb0e46d88980c1f2090",
+      "new_original_sha256": "2eeda43f49057ac94e6fe36a82a6529d52aa950cdf2ccf5edea6a0a63e657ba2",
+      "prior_public_zip_sha256": "5154edb98a4c2b3b07b11979bfe710f3a1dbc4bb4f8cb0e9bcbc8dce37edc609"
+    }
+  ],
+  "table_payloads": "All 15 compact table payloads, including Table 1, unchanged; expanded Figure 1 supplements the historical table.",
+  "prior_figure1_retention": "Former narrow Figure 1 bytes preserved privately in the publication backup, excluded from current public figures."
 }

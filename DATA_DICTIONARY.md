@@ -1,6 +1,6 @@
 # Data dictionary
 
-Version 1.0; prepublication companion baseline dated 27 October 2026.
+Version 1.0; numerical baseline dated 27 October 2026, with the disclosed Figure 1 and reference correction issued 27 October 2026.
 
 ## Observations and provenance
 
@@ -86,6 +86,6 @@ The limited, central and strong production cases are chosen combinations, not a 
 
 `results/core_models.json` records calculated/printed values, tolerances, differences, pass flags, units and assumption/source basis. Comparisons validate arithmetic against displayed precision. They do not validate a real project. `results/supplemental.json` records additional identities and downside cases; its monetary fields are US$ millions unless the field explicitly names dollars.
 
-`references.json` has `number`, `entry` and `url`. The CSV has matching `Number`, `Entry` and `URL` columns. The directory contains 89 entries. It is a source index, not permission to redistribute all linked works.
+`references.json` has `number`, `entry` and `url`. The CSV has matching `Number`, `Entry` and `URL` columns. The directory contains 90 entries: the original 89 sources plus the companion self-citation at [90]. It is a source index, not permission to redistribute all linked works.
 
 Geographic inputs and map coordinates are described in `FIGURES.md` and the geographic source records. Natural Earth geometry is generalized; World Port Index coordinates are approximate and dated 2019. Dotted connectors are study axes rather than surveyed roads, operating routes or legal boundaries. Component-specific rights are described in `THIRD_PARTY_NOTICES.md` and `LICENSE.md`.

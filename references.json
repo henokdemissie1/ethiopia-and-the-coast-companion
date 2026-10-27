@@ -443,5 +443,10 @@
     "number": 89,
     "entry": "National Geospatial-Intelligence Agency. World Port Index. Publication 150, twenty-seventh edition, 2019. Entries 47100, 47820, 47850, 47880 and 47900; PDF pages 157 and 159. Used for approximate port locations, not current depth, capacity, or operating status.",
     "url": "https://msi.nga.mil/api/publications/download?key=16694622%2FSFH00000%2FPub150bk.pdf&lang=en"
+  },
+  {
+    "number": 90,
+    "entry": "Kefelegn, Henok. Ethiopia and the Coast: Data and Analysis Companion. First Edition, v1.0. Zenodo, 2026. Correction issued 27 October 2026. https://doi.org/10.5281/zenodo.23698701",
+    "url": "https://doi.org/10.5281/zenodo.23698701"
   }
 ]

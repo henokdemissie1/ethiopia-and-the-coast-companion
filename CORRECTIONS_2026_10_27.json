@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-27",
+  "version_label": "v1.0",
+  "kind": "Disclosed illustration correction; no numerical-data or model-input revision",
+  "figure": 1,
+  "prior_public_zip_sha256": "5154edb98a4c2b3b07b11979bfe710f3a1dbc4bb4f8cb0e9bcbc8dce37edc609",
+  "prior_figure_png_sha256": "9f9d6f87b76dff1aad90573a49c14375c2097a1279eeecb0e46d88980c1f2090",
+  "corrected_figure_png_sha256": "2eeda43f49057ac94e6fe36a82a6529d52aa950cdf2ccf5edea6a0a63e657ba2",
+  "prior_event_count": 8,
+  "corrected_event_count": 16,
+  "pixel_dimensions": [
+    1320,
+    1740
+  ],
+  "dpi": 300,
+  "intended_inches": [
+    4.4,
+    5.8
+  ],
+  "input": "plot_data/figure_01_events.json",
+  "builder": "expanded_timeline.py via reproduce_figures.py",
+  "unaffected_numerical_inputs": "Archived population/trade/GDP observations and all numerical scenario assumptions retained.",
+  "book_distribution": "The public companion contains no manuscript or private editorial comments.",
+  "self_citation_reference_number": 90,
+  "reference_count": 90,
+  "original_reference_entries_1_to_89_unchanged": true,
+  "self_citation_entry": "Kefelegn, Henok. Ethiopia and the Coast: Data and Analysis Companion. First Edition, v1.0. Zenodo, 2026. Correction issued 27 October 2026. https://doi.org/10.5281/zenodo.23698701",
+  "all_15_table_payloads_unchanged": true
+}

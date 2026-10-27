@@ -2,11 +2,13 @@
 
 The current book contains **14 numbered figures and two maps**, making 16 current visuals. There are no numbered Figures 15 or 16. This guide follows the book labels rather than treating the map count as additional figure numbers.
 
-`figures/original/` preserves the exact current book-baseline PNGs from the authorized companion archive. **Figure 1 is `image3.png`; Figure 11 is `image15.png`.** Map 1 is `image1.png`. Superseded `image2.png` and `image14.png` are excluded. The public repository contains no manuscript text or DOCX.
+`figures/original/` preserves the current book-baseline PNGs. Figure 1 incorporates the approved expanded correction dated 27 October 2026; the other 15 original images are unchanged from the original public artifact. **Figure 1 is `image3.png`; Figure 11 is `image15.png`.** Map 1 is `image1.png`. Superseded `image2.png` and `image14.png` are excluded. The public repository contains no manuscript text or DOCX.
 
 `figures/regenerated/` contains new equivalent illustrations produced by the public scripts. Their data, stated assumptions and conceptual content are traceable, but their appearance is **not claimed to be pixel-identical** to the original images. These supplemental outputs do not modify the book or replace its preserved originals. Original-image SHA-256 hashes and the full mapping are recorded in [figure_manifest.json](figure_manifest.json).
 
-Figure 1 retains the current **modern 1950–2024 scope**. It does not visualize the earlier ancient and colonial milestones in Table 1. The public release preserves that baseline selection.
+Figure 1 now covers the Table 1 milestones and additional Chapter 1 turning points in two stacked sections: ancient exchange/colonial change, then federation/sovereignty/commercial access. Sixteen entries run from the first centuries CE through 2024. The 1991 transition, 1993 independence and continuing Ethiopian port use, and 1998 cargo interruption remain distinct. The version label stays v1.0 with this dated correction disclosed in CHANGELOG.md and CORRECTIONS_2026_10_27.json.
+
+The compact Table 1 rows and all 15 table payloads are unchanged. The expanded figure supplements that table rather than replacing its compact format. The former narrow Figure 1 is superseded; its original bytes are preserved in the private publication backup, not mixed into the current public figures directory.
 
 ## Reproduce offline
 
@@ -30,12 +32,12 @@ The existing entry points `build_history_figure.py`, `build_revised_timeline.py`
 
 ## All current visuals
 
-Book-page numbers refer to the frozen 199-page revised reading edition used for this release.
+Book-page numbers identify the pre-correction 199-page reading baseline for orientation. They can shift during final layout; figure numbers and file identities remain the reliable locators.
 
 | Book label and page | Original PNG | Equivalent output | Inputs and units | Evidence/assumption status |
 | --- | --- | --- | --- | --- |
 | Map 1, p. 16 | [image1.png](figures/original/image1.png) | [Map 1](figures/regenerated/map1_orientation_equivalent.png) | Natural Earth coastline and six selected locations; longitude/latitude degrees | General orientation. Boundaries omitted; no port operating status asserted. |
-| Figure 1, p. 28 | [image3.png](figures/original/image3.png) | [Figure 1](figures/regenerated/figure_01_equivalent.png) | Eight dated milestones, 1950–2024; references 3, 4, 5, 9, 32, 73, 76 | A selective chronology. Events are equally spaced, not proportional to elapsed time. |
+| Figure 1, p. 28 | [image3.png](figures/original/image3.png) | [Figure 1](figures/regenerated/figure_01_equivalent.png) | Sixteen entries/periods from ancient Aksum/Adulis to 2024; references 1–5, 9, 32, 33, 73, 75, 76 | Two stacked sections; 1320×1740 px at 300 dpi (4.4×5.8 in). Grouped rows are not proportional to elapsed time. |
 | Figure 2, p. 38 | [image4.png](figures/original/image4.png) | [Figure 2](figures/regenerated/figure_02_equivalent.png) | Farm/factory → dry port/customs → road/rail → terminal → ocean → buyer | Author conceptual service chain, without geographic scale or a surveyed route. |
 | Figure 3, p. 44 | [image5.png](figures/original/image5.png) | [Figure 3](figures/regenerated/figure_03_equivalent.png) | `data/archived/population.json`, `SP.POP.TOTL`, 1993–2025; chart in million people | Archived WDI midyear population estimates; revisions are possible. Not a port-demand forecast. |
 | Figure 4, p. 46 | [image6.png](figures/original/image6.png) | [Figure 4](figures/regenerated/figure_04_equivalent.png) | Archived imports/exports, `TM.VAL.MRCH.CD.WT` and `TX.VAL.MRCH.CD.WT`, 1993–2025; US$ billion | Current-dollar merchandise values from WDI/WTO. Neither cargo tonnes nor inflation-adjusted growth. |
@@ -72,4 +74,4 @@ The bundled Natural Earth coastline shapefile is sufficient to rerun the maps. T
 
 ## Release scope
 
-This public companion release adds a traceable reproduction path and clean figure mapping. It does not revise the manuscript, publish private editorial comments, update the frozen data vintage or convert teaching assumptions into evidence. Refer to the repository's data/asset notices for licenses and third-party attribution.
+This public companion release supplies a traceable reproduction path and clean figure mapping. The dated Figure 1 illustration correction is synchronized with the author-approved manuscript revision. This companion does not publish the manuscript or private editorial comments, update the frozen numerical data vintage, or convert teaching assumptions into evidence. Refer to the repository's data/asset notices for licenses and third-party attribution.

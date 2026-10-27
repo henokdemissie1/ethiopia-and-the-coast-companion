@@ -41,13 +41,9 @@ def save(n,image):
     return path
 
 def figure1():
-    events=[('1950','UN federation resolution'),('1952','Federation takes effect'),('1962','Federation ends; Eritrea incorporated into Ethiopia'),('1993','Eritrean independence; Ethiopian port use continues'),('1998','Assab cargo movements end during interstate conflict'),('2000','Algiers Agreement'),('2018','Ethiopia-Eritrea peace and friendship declaration'),('2024','Ethiopia-Somalia Ankara Declaration')]
-    im,d=canvas(1,'Selected historical and diplomatic milestones','Selective chronology; equally spaced events, not a proportional time scale.','Sources: references 3, 4, 5, 9, 32, 73 and 76.',height=1200)
-    d.line((180,190,180,995),fill='#777777',width=5)
-    for i,(year,label) in enumerate(events):
-        y=195+i*110;d.ellipse((170,y,190,y+20),fill=COLORS[0]);text(d,(230,y-8),year,35,True);wrapped(d,(405,y-7),label,1080,30)
-    export(1,[{'year':int(a),'milestone':b} for a,b in events],{'year':'calendar year'},'Dated historical selection; not an event-frequency dataset',[3,4,5,9,32,73,76],{'event_spacing':'equal, not elapsed-time proportional'})
-    return save(1,im)
+    from expanded_timeline import build_figure1
+    return build_figure1(ROOT)
+
 
 def figure2():
     labels=['Farm or factory','Dry port and customs','Road or rail','Coastal terminal','Ocean service','Overseas buyer']
