@@ -1,0 +1,467 @@
+{
+  "pixels": [
+    1320,
+    1740
+  ],
+  "dpi": 300,
+  "intended_inches": [
+    4.4,
+    5.8
+  ],
+  "all_text_bounds_checked": true,
+  "text_elements": [
+    {
+      "text": "Selected historical and diplomatic milestones",
+      "font_px": 46,
+      "bbox": [
+        55,
+        36,
+        1059,
+        79
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "A selective chronology, not a proportional time scale",
+      "font_px": 34,
+      "bbox": [
+        54,
+        99,
+        840,
+        131
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "A  Ancient exchange and colonial change",
+      "font_px": 37,
+      "bbox": [
+        65,
+        181,
+        803,
+        215
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "First centuries",
+      "font_px": 33,
+      "bbox": [
+        65,
+        257,
+        290,
+        281
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "CE",
+      "font_px": 33,
+      "bbox": [
+        65,
+        295,
+        111,
+        319
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "Aksum and Adulis link inland and Red Sea trade",
+      "font_px": 39,
+      "bbox": [
+        364,
+        263,
+        1211,
+        291
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "Fourth century",
+      "font_px": 33,
+      "bbox": [
+        65,
+        348,
+        296,
+        379
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "CE",
+      "font_px": 33,
+      "bbox": [
+        65,
+        386,
+        111,
+        410
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "Christianity established in Aksum under Ezana",
+      "font_px": 39,
+      "bbox": [
+        365,
+        354,
+        1181,
+        390
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "1882",
+      "font_px": 38,
+      "bbox": [
+        65,
+        445,
+        149,
+        472
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "Italian government acquires Assab",
+      "font_px": 39,
+      "bbox": [
+        365,
+        445,
+        972,
+        481
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "1885",
+      "font_px": 38,
+      "bbox": [
+        65,
+        493,
+        149,
+        520
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "Italy occupies Massawa",
+      "font_px": 39,
+      "bbox": [
+        365,
+        493,
+        783,
+        529
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "1890",
+      "font_px": 38,
+      "bbox": [
+        65,
+        541,
+        149,
+        568
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "Italian colony of Eritrea established",
+      "font_px": 39,
+      "bbox": [
+        365,
+        541,
+        980,
+        577
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "1896",
+      "font_px": 38,
+      "bbox": [
+        65,
+        611,
+        149,
+        638
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "Ethiopian victory at Adwa",
+      "font_px": 39,
+      "bbox": [
+        365,
+        611,
+        809,
+        647
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "B  Federation, sovereignty and commercial access",
+      "font_px": 37,
+      "bbox": [
+        65,
+        737,
+        963,
+        771
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "1950",
+      "font_px": 38,
+      "bbox": [
+        65,
+        819,
+        149,
+        846
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "UN resolution sets federation framework",
+      "font_px": 39,
+      "bbox": [
+        365,
+        819,
+        1069,
+        847
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "1952",
+      "font_px": 38,
+      "bbox": [
+        65,
+        867,
+        149,
+        894
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "Eritrea-Ethiopia federation takes effect",
+      "font_px": 39,
+      "bbox": [
+        365,
+        867,
+        1038,
+        903
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "1961",
+      "font_px": 38,
+      "bbox": [
+        65,
+        937,
+        149,
+        964
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "Eritrean armed struggle begins",
+      "font_px": 39,
+      "bbox": [
+        365,
+        937,
+        905,
+        973
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "1962",
+      "font_px": 38,
+      "bbox": [
+        65,
+        985,
+        149,
+        1012
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "Federation ends; Eritrea made a province",
+      "font_px": 39,
+      "bbox": [
+        365,
+        985,
+        1092,
+        1021
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "1991",
+      "font_px": 38,
+      "bbox": [
+        65,
+        1055,
+        149,
+        1082
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "Ethiopian transition; referendum route endorsed",
+      "font_px": 39,
+      "bbox": [
+        365,
+        1055,
+        1202,
+        1091
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "1993",
+      "font_px": 38,
+      "bbox": [
+        65,
+        1103,
+        149,
+        1130
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "Eritrean independence; Ethiopian port use continues",
+      "font_px": 37,
+      "bbox": [
+        365,
+        1102,
+        1234,
+        1136
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "1998",
+      "font_px": 38,
+      "bbox": [
+        65,
+        1173,
+        149,
+        1200
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "Port-cargo movements to Ethiopia end in war",
+      "font_px": 39,
+      "bbox": [
+        365,
+        1173,
+        1155,
+        1209
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "2000",
+      "font_px": 38,
+      "bbox": [
+        65,
+        1264,
+        149,
+        1291
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "Algiers Agreement",
+      "font_px": 39,
+      "bbox": [
+        364,
+        1264,
+        689,
+        1300
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "2018",
+      "font_px": 38,
+      "bbox": [
+        65,
+        1355,
+        149,
+        1382
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "Ethiopia-Eritrea peace declaration",
+      "font_px": 39,
+      "bbox": [
+        365,
+        1355,
+        961,
+        1391
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "2024",
+      "font_px": 38,
+      "bbox": [
+        65,
+        1446,
+        149,
+        1473
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "Ankara Declaration: Ethiopia-Somalia access talks",
+      "font_px": 37,
+      "bbox": [
+        364,
+        1445,
+        1200,
+        1479
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "1993 independence and the 1998 port-cargo interruption",
+      "font_px": 32,
+      "bbox": [
+        55,
+        1596,
+        923,
+        1625
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "are distinct events. See Table 1 and Chapter 1 for context.",
+      "font_px": 32,
+      "bbox": [
+        55,
+        1637,
+        890,
+        1666
+      ],
+      "within_canvas": true
+    },
+    {
+      "text": "Sources [1-5, 9, 32, 33, 73, 75, 76]. Dates identify events, not continuing rights.",
+      "font_px": 24,
+      "bbox": [
+        55,
+        1691,
+        892,
+        1713
+      ],
+      "within_canvas": true
+    }
+  ],
+  "last_group_bottom_px": 1556,
+  "sources_input": "plot_data/figure_01_events.json"
+}
