@@ -1,0 +1,42 @@
+{
+  "retrieved": "2026-10-11",
+  "source": "World Bank WDI API source 2",
+  "queries": [
+    {
+      "indicator": "NY.GDP.MKTP.KD",
+      "url": "https://api.worldbank.org/v2/country/ETH;DJI;KEN;UGA;TZA;RWA;ERI;SOM;SDN;SSD/indicator/NY.GDP.MKTP.KD?format=json&date=2010:2024&per_page=1000",
+      "updated": "2026-10-08",
+      "records": 150,
+      "values_2024": {
+        "DJI": 3845591877.09476,
+        "ERI": null,
+        "ETH": 116669335366.646,
+        "KEN": 104901873444.36,
+        "RWA": 14871874942.9284,
+        "SDN": 29179132448.9899,
+        "SOM": 8882404280.64289,
+        "SSD": null,
+        "TZA": 74463225268.4644,
+        "UGA": 49319389340.67
+      }
+    },
+    {
+      "indicator": "NY.GDP.MKTP.CD",
+      "url": "https://api.worldbank.org/v2/country/ETH;DJI;KEN;UGA;TZA;RWA;ERI;SOM;SDN;SSD/indicator/NY.GDP.MKTP.CD?format=json&date=2010:2024&per_page=1000",
+      "updated": "2026-10-08",
+      "records": 150,
+      "values_2024": {
+        "DJI": 4152145939.98458,
+        "ERI": null,
+        "ETH": 149740297952.375,
+        "KEN": 120397537849.826,
+        "RWA": 15111064181.9687,
+        "SDN": 49672435513.1126,
+        "SOM": 11967000000,
+        "SSD": null,
+        "TZA": 79235713444.9777,
+        "UGA": 53911907079.0485
+      }
+    }
+  ]
+}

@@ -1,0 +1,297 @@
+{
+  "SP.POP.TOTL": {
+    "url": "https://api.worldbank.org/v2/country/ETH/indicator/SP.POP.TOTL?format=json&date=1993:2025&per_page=1000",
+    "metadata": {
+      "page": 1,
+      "pages": 1,
+      "per_page": 1000,
+      "total": 33,
+      "sourceid": "2",
+      "lastupdated": "2026-10-08"
+    },
+    "2024_2025": [
+      {
+        "country": "ETH",
+        "year": "2025",
+        "value": 135472051
+      },
+      {
+        "country": "ETH",
+        "year": "2024",
+        "value": 132059767
+      }
+    ]
+  },
+  "TM.VAL.MRCH.CD.WT": {
+    "url": "https://api.worldbank.org/v2/country/ETH/indicator/TM.VAL.MRCH.CD.WT?format=json&date=1993:2025&per_page=1000",
+    "metadata": {
+      "page": 1,
+      "pages": 1,
+      "per_page": 1000,
+      "total": 33,
+      "sourceid": "2",
+      "lastupdated": "2026-10-08"
+    },
+    "2024_2025": [
+      {
+        "country": "ETH",
+        "year": "2025",
+        "value": 23012000000
+      },
+      {
+        "country": "ETH",
+        "year": "2024",
+        "value": 18605000000
+      }
+    ]
+  },
+  "TX.VAL.MRCH.CD.WT": {
+    "url": "https://api.worldbank.org/v2/country/ETH/indicator/TX.VAL.MRCH.CD.WT?format=json&date=1993:2025&per_page=1000",
+    "metadata": {
+      "page": 1,
+      "pages": 1,
+      "per_page": 1000,
+      "total": 33,
+      "sourceid": "2",
+      "lastupdated": "2026-10-08"
+    },
+    "2024_2025": [
+      {
+        "country": "ETH",
+        "year": "2025",
+        "value": 7585000000
+      },
+      {
+        "country": "ETH",
+        "year": "2024",
+        "value": 5472000000
+      }
+    ]
+  },
+  "NY.GDP.MKTP.KD": {
+    "url": "https://api.worldbank.org/v2/country/ETH;DJI;KEN;UGA;TZA;RWA;ERI;SOM;SDN;SSD/indicator/NY.GDP.MKTP.KD?format=json&date=2010:2025&per_page=1000",
+    "metadata": {
+      "page": 1,
+      "pages": 1,
+      "per_page": 1000,
+      "total": 160,
+      "sourceid": "2",
+      "lastupdated": "2026-10-08"
+    },
+    "2024_2025": [
+      {
+        "country": "DJI",
+        "year": "2025",
+        "value": 4095380799.70674
+      },
+      {
+        "country": "DJI",
+        "year": "2024",
+        "value": 3845591877.09476
+      },
+      {
+        "country": "ERI",
+        "year": "2025",
+        "value": null
+      },
+      {
+        "country": "ERI",
+        "year": "2024",
+        "value": null
+      },
+      {
+        "country": "ETH",
+        "year": "2025",
+        "value": 128069700729.493
+      },
+      {
+        "country": "ETH",
+        "year": "2024",
+        "value": 116669335366.646
+      },
+      {
+        "country": "KEN",
+        "year": "2025",
+        "value": 109761569108.182
+      },
+      {
+        "country": "KEN",
+        "year": "2024",
+        "value": 104901873444.36
+      },
+      {
+        "country": "RWA",
+        "year": "2025",
+        "value": 16266231947.2257
+      },
+      {
+        "country": "RWA",
+        "year": "2024",
+        "value": 14871874942.9284
+      },
+      {
+        "country": "SDN",
+        "year": "2025",
+        "value": 30073262602.2896
+      },
+      {
+        "country": "SDN",
+        "year": "2024",
+        "value": 29179132448.9899
+      },
+      {
+        "country": "SOM",
+        "year": "2025",
+        "value": 9148089787.32035
+      },
+      {
+        "country": "SOM",
+        "year": "2024",
+        "value": 8882404280.64289
+      },
+      {
+        "country": "SSD",
+        "year": "2025",
+        "value": null
+      },
+      {
+        "country": "SSD",
+        "year": "2024",
+        "value": null
+      },
+      {
+        "country": "TZA",
+        "year": "2025",
+        "value": 78821459765.6257
+      },
+      {
+        "country": "TZA",
+        "year": "2024",
+        "value": 74463225268.4644
+      },
+      {
+        "country": "UGA",
+        "year": "2025",
+        "value": 52442200144.5364
+      },
+      {
+        "country": "UGA",
+        "year": "2024",
+        "value": 49319389340.67
+      }
+    ]
+  },
+  "NY.GDP.MKTP.CD": {
+    "url": "https://api.worldbank.org/v2/country/ETH;DJI;KEN;UGA;TZA;RWA;ERI;SOM;SDN;SSD/indicator/NY.GDP.MKTP.CD?format=json&date=2010:2025&per_page=1000",
+    "metadata": {
+      "page": 1,
+      "pages": 1,
+      "per_page": 1000,
+      "total": 160,
+      "sourceid": "2",
+      "lastupdated": "2026-10-08"
+    },
+    "2024_2025": [
+      {
+        "country": "DJI",
+        "year": "2025",
+        "value": 4624533092.31886
+      },
+      {
+        "country": "DJI",
+        "year": "2024",
+        "value": 4152145939.98458
+      },
+      {
+        "country": "ERI",
+        "year": "2025",
+        "value": null
+      },
+      {
+        "country": "ERI",
+        "year": "2024",
+        "value": null
+      },
+      {
+        "country": "ETH",
+        "year": "2025",
+        "value": 126358758448.356
+      },
+      {
+        "country": "ETH",
+        "year": "2024",
+        "value": 149740297952.375
+      },
+      {
+        "country": "KEN",
+        "year": "2025",
+        "value": 135941278878.815
+      },
+      {
+        "country": "KEN",
+        "year": "2024",
+        "value": 120397537849.826
+      },
+      {
+        "country": "RWA",
+        "year": "2025",
+        "value": 16372132990.2271
+      },
+      {
+        "country": "RWA",
+        "year": "2024",
+        "value": 15111064181.9687
+      },
+      {
+        "country": "SDN",
+        "year": "2025",
+        "value": 60162634574.4689
+      },
+      {
+        "country": "SDN",
+        "year": "2024",
+        "value": 49672435513.1126
+      },
+      {
+        "country": "SOM",
+        "year": "2025",
+        "value": 12995200000.2658
+      },
+      {
+        "country": "SOM",
+        "year": "2024",
+        "value": 11967000000
+      },
+      {
+        "country": "SSD",
+        "year": "2025",
+        "value": null
+      },
+      {
+        "country": "SSD",
+        "year": "2024",
+        "value": null
+      },
+      {
+        "country": "TZA",
+        "year": "2025",
+        "value": 90143496090.4411
+      },
+      {
+        "country": "TZA",
+        "year": "2024",
+        "value": 79235713444.9777
+      },
+      {
+        "country": "UGA",
+        "year": "2025",
+        "value": 61985829288.1496
+      },
+      {
+        "country": "UGA",
+        "year": "2024",
+        "value": 53911907079.0485
+      }
+    ]
+  }
+}
